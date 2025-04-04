@@ -1,0 +1,6051 @@
+{
+  "passports": [
+    {
+      "vin": "",
+      "idMO": 9023,
+      "modelOrMarkOrModif": "АТЗ",
+      "regNumber": "Н186ОТ65",
+      "garageNumber": "",
+      "organization": -1548126420,
+      "invNumber": "",
+      "basePlace": null,
+      "pts": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "sor": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "abonentTerminals": [
+        {
+          "id": 7666,
+          "code": "863921039002764",
+          "isMain": true,
+          "isActive": true
+        }
+      ],
+      "classByLength": null,
+      "registered": true,
+      "kindType": "Автотопливозаправщики"
+    },
+    {
+      "vin": "",
+      "idMO": 8477,
+      "modelOrMarkOrModif": "КАМАЗ 732427",
+      "regNumber": "М803УС65",
+      "garageNumber": "",
+      "organization": -1548126420,
+      "invNumber": "",
+      "basePlace": null,
+      "pts": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "sor": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "abonentTerminals": [
+        {
+          "id": 7078,
+          "code": "862311067429686",
+          "isMain": true,
+          "isActive": true
+        }
+      ],
+      "classByLength": null,
+      "registered": true,
+      "kindType": ""
+    },
+    {
+      "vin": "",
+      "idMO": 8520,
+      "modelOrMarkOrModif": "АВТО Полуприцепы-автовозы",
+      "regNumber": "А001АА",
+      "garageNumber": "",
+      "organization": -1792956696,
+      "invNumber": "",
+      "basePlace": null,
+      "pts": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "sor": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "abonentTerminals": [
+        {
+          "id": 7142,
+          "code": "018270177126",
+          "isMain": true,
+          "isActive": true
+        }
+      ],
+      "classByLength": null,
+      "registered": false,
+      "kindType": ""
+    },
+    {
+      "vin": "XTT316300R1014315",
+      "idMO": 7308,
+      "modelOrMarkOrModif": "УАЗ ПАТРИОТ",
+      "regNumber": "Н440ОМ65",
+      "garageNumber": "ВГК",
+      "organization": -2041835488,
+      "invNumber": "",
+      "basePlace": -71357310,
+      "pts": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "sor": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "abonentTerminals": [
+        {
+          "id": 6099,
+          "code": "862311067367951",
+          "isMain": true,
+          "isActive": true
+        }
+      ],
+      "classByLength": null,
+      "registered": true,
+      "kindType": ""
+    },
+    {
+      "vin": "",
+      "idMO": 7316,
+      "modelOrMarkOrModif": "УАЗ ПАТРИОТ",
+      "regNumber": "Н314ОМ65",
+      "garageNumber": "СУР",
+      "organization": -1941955574,
+      "invNumber": "",
+      "basePlace": -71357310,
+      "pts": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "sor": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "abonentTerminals": [
+        {
+          "id": 6107,
+          "code": "862311062492010",
+          "isMain": true,
+          "isActive": true
+        }
+      ],
+      "classByLength": null,
+      "registered": true,
+      "kindType": "Легковой универсал"
+    },
+    {
+      "vin": "",
+      "idMO": 7467,
+      "modelOrMarkOrModif": "НЕФАЗ 42111-1",
+      "regNumber": "М414УК65",
+      "garageNumber": "",
+      "organization": -1548126420,
+      "invNumber": "",
+      "basePlace": -1548126420,
+      "pts": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "sor": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "abonentTerminals": [
+        {
+          "id": 6209,
+          "code": "862311068626124",
+          "isMain": true,
+          "isActive": true
+        }
+      ],
+      "classByLength": null,
+      "registered": true,
+      "kindType": ""
+    },
+    {
+      "vin": "XTT316300R1012840",
+      "idMO": 7305,
+      "modelOrMarkOrModif": "УАЗ ПАТРИОТ",
+      "regNumber": "Н501ОМ65",
+      "garageNumber": "ВГК",
+      "organization": 1406701379,
+      "invNumber": "",
+      "basePlace": null,
+      "pts": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "sor": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "abonentTerminals": [
+        {
+          "id": 6096,
+          "code": "862311067652345",
+          "isMain": true,
+          "isActive": true
+        }
+      ],
+      "classByLength": null,
+      "registered": false,
+      "kindType": "Легковой универсал"
+    },
+    {
+      "vin": "X89732503G0FG8011",
+      "idMO": 7481,
+      "modelOrMarkOrModif": "КАМАЗ 43118",
+      "regNumber": "М051УВ65",
+      "garageNumber": "",
+      "organization": -1548126420,
+      "invNumber": "",
+      "basePlace": -1548126420,
+      "pts": {
+        "number": "945780",
+        "series": "945780",
+        "date": "26.10.2016"
+      },
+      "sor": {
+        "number": "720887",
+        "series": "6541",
+        "date": "17.12.2016"
+      },
+      "abonentTerminals": [
+        {
+          "id": 6223,
+          "code": "863921039001873",
+          "isMain": true,
+          "isActive": true
+        }
+      ],
+      "classByLength": null,
+      "registered": true,
+      "kindType": "Грузовой бортовой"
+    },
+    {
+      "vin": "",
+      "idMO": 7464,
+      "modelOrMarkOrModif": "АТЗ",
+      "regNumber": "Н284КМ65",
+      "garageNumber": "",
+      "organization": 887183744,
+      "invNumber": "",
+      "basePlace": -1548126420,
+      "pts": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "sor": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "abonentTerminals": [
+        {
+          "id": 6206,
+          "code": "863921036242744",
+          "isMain": true,
+          "isActive": true
+        }
+      ],
+      "classByLength": null,
+      "registered": true,
+      "kindType": "автотопливозаправщик"
+    },
+    {
+      "vin": "XTC532150Y2137216",
+      "idMO": 7454,
+      "modelOrMarkOrModif": "КАМАЗ 532150 КАМАЗ 532150",
+      "regNumber": "А947ТУ65",
+      "garageNumber": "",
+      "organization": -1548126420,
+      "invNumber": "",
+      "basePlace": -1548126420,
+      "pts": {
+        "number": "750625",
+        "series": "750625",
+        "date": "09.06.2015"
+      },
+      "sor": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "abonentTerminals": [
+        {
+          "id": 6196,
+          "code": "863921038985928",
+          "isMain": true,
+          "isActive": true
+        }
+      ],
+      "classByLength": {
+        "id": 3,
+        "name": "средний (более 7,5 метров до 10 метров)"
+      },
+      "registered": true,
+      "kindType": "Грузовой бортовой"
+    },
+    {
+      "vin": "EA2438201M0000185",
+      "idMO": 7477,
+      "modelOrMarkOrModif": "КАМАЗ АГП (Автовышки) 438201-01",
+      "regNumber": "Н702МА65",
+      "garageNumber": "",
+      "organization": -1548126420,
+      "invNumber": "",
+      "basePlace": -1548126420,
+      "pts": {
+        "number": "164301039859528",
+        "series": "164301039859528",
+        "date": "17.01.2022"
+      },
+      "sor": {
+        "number": "778246",
+        "series": "9927",
+        "date": "16.02.2022"
+      },
+      "abonentTerminals": [
+        {
+          "id": 6219,
+          "code": "862311068651981",
+          "isMain": true,
+          "isActive": true
+        }
+      ],
+      "classByLength": {
+        "id": 3,
+        "name": "средний (более 7,5 метров до 10 метров)"
+      },
+      "registered": true,
+      "kindType": "Грузовой бортовой"
+    },
+    {
+      "vin": "",
+      "idMO": 8193,
+      "modelOrMarkOrModif": "JAC T6",
+      "regNumber": "Н453НС65",
+      "garageNumber": "УМПШ",
+      "organization": 1814604778,
+      "invNumber": "",
+      "basePlace": -71357310,
+      "pts": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "sor": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "abonentTerminals": [
+        {
+          "id": 6897,
+          "code": "862311068564499",
+          "isMain": true,
+          "isActive": true
+        }
+      ],
+      "classByLength": null,
+      "registered": true,
+      "kindType": "Легковой пикап"
+    },
+    {
+      "vin": "",
+      "idMO": 8207,
+      "modelOrMarkOrModif": "ISUZU Forward",
+      "regNumber": "К371МВ",
+      "garageNumber": "",
+      "organization": 569226975,
+      "invNumber": "",
+      "basePlace": null,
+      "pts": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "sor": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "abonentTerminals": [
+        {
+          "id": 6910,
+          "code": "864857030934838",
+          "isMain": true,
+          "isActive": true
+        }
+      ],
+      "classByLength": null,
+      "registered": true,
+      "kindType": "Краны автомобильные"
+    },
+    {
+      "vin": "",
+      "idMO": 8246,
+      "modelOrMarkOrModif": "LEXUS IS 200 SPORT",
+      "regNumber": "Е333АЕ",
+      "garageNumber": "",
+      "organization": -677862159,
+      "invNumber": "",
+      "basePlace": null,
+      "pts": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "sor": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "abonentTerminals": [
+        {
+          "id": 6943,
+          "code": "862311062447535",
+          "isMain": false,
+          "isActive": false
+        },
+        {
+          "id": 7602,
+          "code": "862311068626124",
+          "isMain": false,
+          "isActive": false
+        },
+        {
+          "id": 7063,
+          "code": "018270032138",
+          "isMain": false,
+          "isActive": false
+        }
+      ],
+      "classByLength": null,
+      "registered": true,
+      "kindType": ""
+    },
+    {
+      "vin": null,
+      "idMO": 8250,
+      "modelOrMarkOrModif": "АТЗ",
+      "regNumber": "НЕ ЗАДАН",
+      "garageNumber": null,
+      "organization": -1548126420,
+      "invNumber": "АТЗ 040",
+      "basePlace": null,
+      "pts": {
+        "number": null,
+        "series": null,
+        "date": null
+      },
+      "sor": {
+        "number": null,
+        "series": null,
+        "date": null
+      },
+      "abonentTerminals": [
+        {
+          "id": 6946,
+          "code": "326002522",
+          "isMain": false,
+          "isActive": false
+        }
+      ],
+      "classByLength": null,
+      "registered": false,
+      "kindType": null
+    },
+    {
+      "vin": "Z9L780542L0000524",
+      "idMO": 7476,
+      "modelOrMarkOrModif": "КАМАЗ 780541",
+      "regNumber": "Н169ВС65",
+      "garageNumber": "",
+      "organization": -1548126420,
+      "invNumber": "",
+      "basePlace": -1548126420,
+      "pts": {
+        "number": "038742",
+        "series": "038742",
+        "date": "14.01.2020"
+      },
+      "sor": {
+        "number": "757547",
+        "series": "9944",
+        "date": "19.11.2022"
+      },
+      "abonentTerminals": [
+        {
+          "id": 6218,
+          "code": "863921034674088",
+          "isMain": true,
+          "isActive": true
+        }
+      ],
+      "classByLength": {
+        "id": 3,
+        "name": "средний (более 7,5 метров до 10 метров)"
+      },
+      "registered": true,
+      "kindType": "Грузовой бортовой"
+    },
+    {
+      "vin": "X89557652L0GN9026",
+      "idMO": 7490,
+      "modelOrMarkOrModif": "ККЗ (КАМЫШИНСКИЙ КЗ) КС-5576 КС-5",
+      "regNumber": "Н553ВН65",
+      "garageNumber": "",
+      "organization": -1548126420,
+      "invNumber": "",
+      "basePlace": -1548126420,
+      "pts": {
+        "number": "306310",
+        "series": "306310",
+        "date": "27.03.2020"
+      },
+      "sor": {
+        "number": "854384",
+        "series": "9919",
+        "date": "09.09.2020"
+      },
+      "abonentTerminals": [
+        {
+          "id": 6232,
+          "code": "862311062492119",
+          "isMain": true,
+          "isActive": true
+        }
+      ],
+      "classByLength": {
+        "id": 3,
+        "name": "средний (более 7,5 метров до 10 метров)"
+      },
+      "registered": true,
+      "kindType": "Краны автомобильные"
+    },
+    {
+      "vin": "X1F66062BGA002413",
+      "idMO": 7455,
+      "modelOrMarkOrModif": "АТЗ",
+      "regNumber": "Н040КМ65",
+      "garageNumber": "",
+      "organization": 887183744,
+      "invNumber": "",
+      "basePlace": -1548126420,
+      "pts": {
+        "number": "783251",
+        "series": "783251",
+        "date": "26.12.2016"
+      },
+      "sor": {
+        "number": "290836",
+        "series": "9925",
+        "date": "10.02.2021"
+      },
+      "abonentTerminals": [
+        {
+          "id": 6948,
+          "code": "862311066810936",
+          "isMain": true,
+          "isActive": true
+        },
+        {
+          "id": 6197,
+          "code": "326002522",
+          "isMain": false,
+          "isActive": false
+        }
+      ],
+      "classByLength": {
+        "id": 2,
+        "name": "малый (более 5 метров до 7,5 метров)"
+      },
+      "registered": true,
+      "kindType": "Автотопливозаправщики"
+    },
+    {
+      "vin": "",
+      "idMO": 8282,
+      "modelOrMarkOrModif": "КАМАЗ",
+      "regNumber": "Н775МА65",
+      "garageNumber": "",
+      "organization": -1548126420,
+      "invNumber": "",
+      "basePlace": -1548126420,
+      "pts": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "sor": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "abonentTerminals": [
+        {
+          "id": 6977,
+          "code": "862311067391597",
+          "isMain": true,
+          "isActive": true
+        }
+      ],
+      "classByLength": null,
+      "registered": true,
+      "kindType": "А/мастерская"
+    },
+    {
+      "vin": "",
+      "idMO": 8283,
+      "modelOrMarkOrModif": "АТЗ",
+      "regNumber": "М367УК65",
+      "garageNumber": "",
+      "organization": 887183744,
+      "invNumber": "",
+      "basePlace": -1548126420,
+      "pts": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "sor": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "abonentTerminals": [
+        {
+          "id": 6978,
+          "code": "863921038975234",
+          "isMain": true,
+          "isActive": true
+        }
+      ],
+      "classByLength": null,
+      "registered": true,
+      "kindType": ""
+    },
+    {
+      "vin": "X7LHSRDDG63457349",
+      "idMO": 7276,
+      "modelOrMarkOrModif": "УАЗ Фермер",
+      "regNumber": "Н891КС65",
+      "garageNumber": "СУР",
+      "organization": 351251335,
+      "invNumber": "",
+      "basePlace": -71357310,
+      "pts": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "sor": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "abonentTerminals": [
+        {
+          "id": 6067,
+          "code": "354762115414762",
+          "isMain": true,
+          "isActive": true
+        }
+      ],
+      "classByLength": null,
+      "registered": true,
+      "kindType": "Легковой универсал"
+    },
+    {
+      "vin": "XTT316300R1012716",
+      "idMO": 7304,
+      "modelOrMarkOrModif": "УАЗ ПАТРИОТ",
+      "regNumber": "Н481ОМ65",
+      "garageNumber": "СУР",
+      "organization": 979630924,
+      "invNumber": "",
+      "basePlace": -71357310,
+      "pts": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "sor": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "abonentTerminals": [
+        {
+          "id": 6095,
+          "code": "862311067388882",
+          "isMain": true,
+          "isActive": true
+        }
+      ],
+      "classByLength": null,
+      "registered": true,
+      "kindType": "Легковой универсал"
+    },
+    {
+      "vin": "XTT316300R1014281",
+      "idMO": 7307,
+      "modelOrMarkOrModif": "УАЗ ПАТРИОТ",
+      "regNumber": "Н533ОМ65",
+      "garageNumber": "СУР",
+      "organization": -1735088208,
+      "invNumber": "",
+      "basePlace": -71357310,
+      "pts": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "sor": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "abonentTerminals": [
+        {
+          "id": 6098,
+          "code": "864857030881401",
+          "isMain": true,
+          "isActive": true
+        }
+      ],
+      "classByLength": null,
+      "registered": true,
+      "kindType": "Легковой универсал"
+    },
+    {
+      "vin": "XTT236320R1021846",
+      "idMO": 8663,
+      "modelOrMarkOrModif": "УАЗ ПАТРИОТ",
+      "regNumber": "Н052ОТ65",
+      "garageNumber": "СУР",
+      "organization": -1334449652,
+      "invNumber": "",
+      "basePlace": -71357310,
+      "pts": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "sor": {
+        "number": "623429",
+        "series": "9973",
+        "date": null
+      },
+      "abonentTerminals": [
+        {
+          "id": 7285,
+          "code": "862311068626173",
+          "isMain": true,
+          "isActive": true
+        }
+      ],
+      "classByLength": null,
+      "registered": true,
+      "kindType": "Легковой универсал"
+    },
+    {
+      "vin": "",
+      "idMO": 8478,
+      "modelOrMarkOrModif": "КАМАЗ 732427",
+      "regNumber": "М057МО65",
+      "garageNumber": "",
+      "organization": -1548126420,
+      "invNumber": "",
+      "basePlace": null,
+      "pts": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "sor": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "abonentTerminals": [
+        {
+          "id": 7079,
+          "code": "862311066901123",
+          "isMain": true,
+          "isActive": true
+        }
+      ],
+      "classByLength": null,
+      "registered": true,
+      "kindType": ""
+    },
+    {
+      "vin": "",
+      "idMO": 8479,
+      "modelOrMarkOrModif": "КАМАЗ 732427",
+      "regNumber": "М967ЕР65",
+      "garageNumber": "",
+      "organization": -1548126420,
+      "invNumber": "",
+      "basePlace": null,
+      "pts": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "sor": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "abonentTerminals": [
+        {
+          "id": 7080,
+          "code": "862311067466852",
+          "isMain": true,
+          "isActive": true
+        }
+      ],
+      "classByLength": null,
+      "registered": true,
+      "kindType": ""
+    },
+    {
+      "vin": "XTT316300R1004099",
+      "idMO": 7320,
+      "modelOrMarkOrModif": "УАЗ ПАТРИОТ",
+      "regNumber": "Н358ОМ65",
+      "garageNumber": "СУР",
+      "organization": -151842574,
+      "invNumber": "",
+      "basePlace": -71357310,
+      "pts": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "sor": {
+        "number": "812628",
+        "series": "9962",
+        "date": null
+      },
+      "abonentTerminals": [
+        {
+          "id": 6111,
+          "code": "862311062525132",
+          "isMain": true,
+          "isActive": true
+        }
+      ],
+      "classByLength": null,
+      "registered": true,
+      "kindType": "Легковой универсал"
+    },
+    {
+      "vin": "MR0KX3FS200814330",
+      "idMO": 7263,
+      "modelOrMarkOrModif": "TOYOTA Fortuner",
+      "regNumber": "Н819КМ65",
+      "garageNumber": "Заявочные",
+      "organization": -193914563,
+      "invNumber": "",
+      "basePlace": -71357310,
+      "pts": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "sor": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "abonentTerminals": [
+        {
+          "id": 6054,
+          "code": "354762115384478",
+          "isMain": true,
+          "isActive": true
+        }
+      ],
+      "classByLength": {
+        "id": 2,
+        "name": "малый (более 5 метров до 7,5 метров)"
+      },
+      "registered": true,
+      "kindType": "Легковой универсал"
+    },
+    {
+      "vin": "XTT390995N1213863",
+      "idMO": 7302,
+      "modelOrMarkOrModif": "УАЗ Буханка",
+      "regNumber": "Н964МР65",
+      "garageNumber": "Заявочные",
+      "organization": -193914563,
+      "invNumber": "",
+      "basePlace": -71357310,
+      "pts": {
+        "number": "191583",
+        "series": "191583",
+        "date": null
+      },
+      "sor": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "abonentTerminals": [
+        {
+          "id": 6093,
+          "code": "863921039015071",
+          "isMain": true,
+          "isActive": true
+        }
+      ],
+      "classByLength": null,
+      "registered": true,
+      "kindType": "Легковой прочее"
+    },
+    {
+      "vin": "",
+      "idMO": 7452,
+      "modelOrMarkOrModif": "КАМАЗ Буровая установка",
+      "regNumber": "M610УС65",
+      "garageNumber": "",
+      "organization": -1548126420,
+      "invNumber": "",
+      "basePlace": -1548126420,
+      "pts": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "sor": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "abonentTerminals": [
+        {
+          "id": 6194,
+          "code": "354762115472398",
+          "isMain": true,
+          "isActive": true
+        }
+      ],
+      "classByLength": null,
+      "registered": true,
+      "kindType": ""
+    },
+    {
+      "vin": "XTT390995P1213538",
+      "idMO": 7298,
+      "modelOrMarkOrModif": "УАЗ Буханка",
+      "regNumber": "Н410НС65",
+      "garageNumber": "ВГК БВР",
+      "organization": 898390537,
+      "invNumber": "",
+      "basePlace": -71357310,
+      "pts": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "sor": {
+        "number": "316339",
+        "series": "9956",
+        "date": null
+      },
+      "abonentTerminals": [
+        {
+          "id": 6089,
+          "code": "863921038970912",
+          "isMain": true,
+          "isActive": true
+        }
+      ],
+      "classByLength": null,
+      "registered": true,
+      "kindType": "Легковой фургон"
+    },
+    {
+      "vin": "XTT316300R1014280",
+      "idMO": 7306,
+      "modelOrMarkOrModif": "УАЗ Буханка",
+      "regNumber": "Н171ОТ65",
+      "garageNumber": "ВГК Сервис",
+      "organization": 472298857,
+      "invNumber": "",
+      "basePlace": -71357310,
+      "pts": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "sor": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "abonentTerminals": [
+        {
+          "id": 6097,
+          "code": "862311068584992",
+          "isMain": true,
+          "isActive": true
+        }
+      ],
+      "classByLength": null,
+      "registered": true,
+      "kindType": "Легковой универсал"
+    },
+    {
+      "vin": "",
+      "idMO": 7318,
+      "modelOrMarkOrModif": "УАЗ ПАТРИОТ",
+      "regNumber": "Н339ОМ65",
+      "garageNumber": "ВГК",
+      "organization": -1888731318,
+      "invNumber": "",
+      "basePlace": -71357310,
+      "pts": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "sor": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "abonentTerminals": [
+        {
+          "id": 6109,
+          "code": "862311064005463",
+          "isMain": true,
+          "isActive": true
+        }
+      ],
+      "classByLength": null,
+      "registered": true,
+      "kindType": "Легковой универсал"
+    },
+    {
+      "vin": "XTT316300H1017027",
+      "idMO": 7311,
+      "modelOrMarkOrModif": "УАЗ ПАТРИОТ",
+      "regNumber": "М353УК65",
+      "garageNumber": "СУР",
+      "organization": -1922697031,
+      "invNumber": "",
+      "basePlace": -71357310,
+      "pts": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "sor": {
+        "number": "439751",
+        "series": "6551",
+        "date": null
+      },
+      "abonentTerminals": [
+        {
+          "id": 6102,
+          "code": "864857030947905",
+          "isMain": true,
+          "isActive": true
+        }
+      ],
+      "classByLength": null,
+      "registered": true,
+      "kindType": "Легковой универсал"
+    },
+    {
+      "vin": "XTT236320R1008603",
+      "idMO": 7328,
+      "modelOrMarkOrModif": "УАЗ Пикап",
+      "regNumber": "Н490НС65",
+      "garageNumber": "СУР",
+      "organization": -1922697031,
+      "invNumber": "",
+      "basePlace": -71357310,
+      "pts": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "sor": {
+        "number": "812649",
+        "series": "9962",
+        "date": null
+      },
+      "abonentTerminals": [
+        {
+          "id": 6119,
+          "code": "862311062446701",
+          "isMain": true,
+          "isActive": true
+        }
+      ],
+      "classByLength": null,
+      "registered": true,
+      "kindType": "Легковой пикап"
+    },
+    {
+      "vin": "XTT316300M1019588",
+      "idMO": 7293,
+      "modelOrMarkOrModif": "УАЗ ПАТРИОТ",
+      "regNumber": "Н874КС65",
+      "garageNumber": "УМПШ",
+      "organization": -1143324367,
+      "invNumber": "",
+      "basePlace": -71357310,
+      "pts": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "sor": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "abonentTerminals": [
+        {
+          "id": 6084,
+          "code": "354762116149813",
+          "isMain": true,
+          "isActive": true
+        }
+      ],
+      "classByLength": {
+        "id": 2,
+        "name": "малый (более 5 метров до 7,5 метров)"
+      },
+      "registered": true,
+      "kindType": "Легковой прочее"
+    },
+    {
+      "vin": "KMNWH81KBLU099147",
+      "idMO": 7315,
+      "modelOrMarkOrModif": "УАЗ ПАТРИОТ",
+      "regNumber": "Н042КМ65",
+      "garageNumber": "УМПШ",
+      "organization": -1143324367,
+      "invNumber": "",
+      "basePlace": -71357310,
+      "pts": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "sor": {
+        "number": "351955",
+        "series": "9917",
+        "date": null
+      },
+      "abonentTerminals": [
+        {
+          "id": 6106,
+          "code": "862311068579596",
+          "isMain": true,
+          "isActive": true
+        }
+      ],
+      "classByLength": null,
+      "registered": true,
+      "kindType": "Легковой универсал"
+    },
+    {
+      "vin": "XTT316300L1005910",
+      "idMO": 7322,
+      "modelOrMarkOrModif": "УАЗ ПАТРИОТ",
+      "regNumber": "Н679ВО65",
+      "garageNumber": "УМПШ",
+      "organization": -1143324367,
+      "invNumber": "",
+      "basePlace": -71357310,
+      "pts": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "sor": {
+        "number": "483637",
+        "series": "9924",
+        "date": null
+      },
+      "abonentTerminals": [
+        {
+          "id": 6113,
+          "code": "354762115404441",
+          "isMain": true,
+          "isActive": true
+        }
+      ],
+      "classByLength": null,
+      "registered": true,
+      "kindType": "Легковой универсал"
+    },
+    {
+      "vin": "XTT316300M1019589",
+      "idMO": 7323,
+      "modelOrMarkOrModif": "УАЗ ПАТРИОТ",
+      "regNumber": "Н834КС65",
+      "garageNumber": "УМПШ",
+      "organization": -1143324367,
+      "invNumber": "",
+      "basePlace": -71357310,
+      "pts": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "sor": {
+        "number": "468845",
+        "series": "9927",
+        "date": null
+      },
+      "abonentTerminals": [
+        {
+          "id": 6114,
+          "code": "864857030882862",
+          "isMain": true,
+          "isActive": true
+        }
+      ],
+      "classByLength": null,
+      "registered": true,
+      "kindType": "Легковой универсал"
+    },
+    {
+      "vin": "XTT390995R1211069",
+      "idMO": 7292,
+      "modelOrMarkOrModif": "УАЗ Буханка",
+      "regNumber": "Н529ОМ65",
+      "garageNumber": "СУР",
+      "organization": 451683701,
+      "invNumber": "",
+      "basePlace": -71357310,
+      "pts": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "sor": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "abonentTerminals": [
+        {
+          "id": 6083,
+          "code": "862311067662781",
+          "isMain": true,
+          "isActive": true
+        }
+      ],
+      "classByLength": {
+        "id": 2,
+        "name": "малый (более 5 метров до 7,5 метров)"
+      },
+      "registered": true,
+      "kindType": "Легковой прочее"
+    },
+    {
+      "vin": "",
+      "idMO": 7290,
+      "modelOrMarkOrModif": "УАЗ Буханка",
+      "regNumber": "Н455ОМ65",
+      "garageNumber": "СУР",
+      "organization": -675864157,
+      "invNumber": "",
+      "basePlace": -71357310,
+      "pts": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "sor": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "abonentTerminals": [
+        {
+          "id": 6081,
+          "code": "862311067385144",
+          "isMain": true,
+          "isActive": true
+        }
+      ],
+      "classByLength": null,
+      "registered": true,
+      "kindType": "Легковой фургон"
+    },
+    {
+      "vin": "",
+      "idMO": 7301,
+      "modelOrMarkOrModif": "УАЗ Фермер",
+      "regNumber": "Н885КС65",
+      "garageNumber": "СУР",
+      "organization": 680532175,
+      "invNumber": "",
+      "basePlace": -71357310,
+      "pts": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "sor": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "abonentTerminals": [
+        {
+          "id": 7471,
+          "code": "862311068604352",
+          "isMain": true,
+          "isActive": true
+        },
+        {
+          "id": 6092,
+          "code": "864857030934812",
+          "isMain": false,
+          "isActive": false
+        }
+      ],
+      "classByLength": null,
+      "registered": true,
+      "kindType": "Легковой пикап"
+    },
+    {
+      "vin": "",
+      "idMO": 7463,
+      "modelOrMarkOrModif": "АТЗ",
+      "regNumber": "М848УС65",
+      "garageNumber": "",
+      "organization": 887183744,
+      "invNumber": "",
+      "basePlace": -1548126420,
+      "pts": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "sor": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "abonentTerminals": [
+        {
+          "id": 6205,
+          "code": "863921038987361",
+          "isMain": true,
+          "isActive": true
+        }
+      ],
+      "classByLength": null,
+      "registered": true,
+      "kindType": "автотопливозаправщик"
+    },
+    {
+      "vin": "",
+      "idMO": 7456,
+      "modelOrMarkOrModif": "АТЗ",
+      "regNumber": "М253УК65",
+      "garageNumber": "",
+      "organization": 887183744,
+      "invNumber": "",
+      "basePlace": -1548126420,
+      "pts": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "sor": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "abonentTerminals": [
+        {
+          "id": 6198,
+          "code": "863921034727688",
+          "isMain": true,
+          "isActive": true
+        }
+      ],
+      "classByLength": null,
+      "registered": true,
+      "kindType": "автотопливозаправщик"
+    },
+    {
+      "vin": "",
+      "idMO": 7309,
+      "modelOrMarkOrModif": "УАЗ ПАТРИОТ",
+      "regNumber": "М093ХМ65",
+      "garageNumber": "СУР",
+      "organization": 351251335,
+      "invNumber": "",
+      "basePlace": -71357310,
+      "pts": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "sor": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "abonentTerminals": [
+        {
+          "id": 6100,
+          "code": "864857030758088",
+          "isMain": true,
+          "isActive": true
+        }
+      ],
+      "classByLength": null,
+      "registered": true,
+      "kindType": "Легковой универсал"
+    },
+    {
+      "vin": "",
+      "idMO": 7460,
+      "modelOrMarkOrModif": "АТЗ",
+      "regNumber": "А292АА",
+      "garageNumber": "",
+      "organization": -1548126420,
+      "invNumber": "",
+      "basePlace": -1548126420,
+      "pts": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "sor": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "abonentTerminals": [
+        {
+          "id": 6202,
+          "code": "863921039002814",
+          "isMain": true,
+          "isActive": true
+        }
+      ],
+      "classByLength": null,
+      "registered": false,
+      "kindType": "автотопливозаправщик"
+    },
+    {
+      "vin": "",
+      "idMO": 7451,
+      "modelOrMarkOrModif": "ISUZU RFVR SAMANGAN",
+      "regNumber": "М714УС65",
+      "garageNumber": "",
+      "organization": -1548126420,
+      "invNumber": "1",
+      "basePlace": -1548126420,
+      "pts": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "sor": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "abonentTerminals": [
+        {
+          "id": 6193,
+          "code": "863921038983881",
+          "isMain": true,
+          "isActive": true
+        }
+      ],
+      "classByLength": null,
+      "registered": true,
+      "kindType": ""
+    },
+    {
+      "vin": "",
+      "idMO": 7449,
+      "modelOrMarkOrModif": "Exotron",
+      "regNumber": "А347АН",
+      "garageNumber": "",
+      "organization": -1548126420,
+      "invNumber": "",
+      "basePlace": -1548126420,
+      "pts": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "sor": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "abonentTerminals": [
+        {
+          "id": 6191,
+          "code": "864857030780538",
+          "isMain": true,
+          "isActive": true
+        }
+      ],
+      "classByLength": null,
+      "registered": true,
+      "kindType": "автотопливозаправщик"
+    },
+    {
+      "vin": "",
+      "idMO": 7498,
+      "modelOrMarkOrModif": "УРАЛ 58491G",
+      "regNumber": "Н145НА65",
+      "garageNumber": "",
+      "organization": -1548126420,
+      "invNumber": "",
+      "basePlace": -1548126420,
+      "pts": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "sor": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "abonentTerminals": [
+        {
+          "id": 6240,
+          "code": "862311060043187",
+          "isMain": true,
+          "isActive": true
+        }
+      ],
+      "classByLength": null,
+      "registered": true,
+      "kindType": "Вахтовка"
+    },
+    {
+      "vin": "",
+      "idMO": 7473,
+      "modelOrMarkOrModif": "КАМАЗ",
+      "regNumber": "М212ХМ65",
+      "garageNumber": "",
+      "organization": -1548126420,
+      "invNumber": "",
+      "basePlace": -1548126420,
+      "pts": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "sor": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "abonentTerminals": [
+        {
+          "id": 6215,
+          "code": "862311060042502",
+          "isMain": true,
+          "isActive": true
+        }
+      ],
+      "classByLength": null,
+      "registered": true,
+      "kindType": "Вахтовка"
+    },
+    {
+      "vin": "",
+      "idMO": 7480,
+      "modelOrMarkOrModif": "HINO REINGER",
+      "regNumber": "Н542НУ",
+      "garageNumber": "",
+      "organization": 569226975,
+      "invNumber": "",
+      "basePlace": 569226975,
+      "pts": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "sor": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "abonentTerminals": [
+        {
+          "id": 6222,
+          "code": "863921034707326",
+          "isMain": true,
+          "isActive": true
+        }
+      ],
+      "classByLength": null,
+      "registered": true,
+      "kindType": "Краны автомобильные"
+    },
+    {
+      "vin": "",
+      "idMO": 7479,
+      "modelOrMarkOrModif": "FUSO",
+      "regNumber": "А396УХ27",
+      "garageNumber": "",
+      "organization": 569226975,
+      "invNumber": "",
+      "basePlace": 569226975,
+      "pts": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "sor": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "abonentTerminals": [
+        {
+          "id": 6221,
+          "code": "863921039000867",
+          "isMain": true,
+          "isActive": true
+        }
+      ],
+      "classByLength": null,
+      "registered": true,
+      "kindType": "Краны автомобильные"
+    },
+    {
+      "vin": "",
+      "idMO": 7458,
+      "modelOrMarkOrModif": "АТЗ",
+      "regNumber": "М268УК65",
+      "garageNumber": "",
+      "organization": 887183744,
+      "invNumber": "",
+      "basePlace": -1548126420,
+      "pts": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "sor": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "abonentTerminals": [
+        {
+          "id": 6200,
+          "code": "863921039012318",
+          "isMain": true,
+          "isActive": true
+        }
+      ],
+      "classByLength": null,
+      "registered": true,
+      "kindType": "автотопливозаправщик"
+    },
+    {
+      "vin": "",
+      "idMO": 7488,
+      "modelOrMarkOrModif": "УРАЛ ППУ 7098ТЗ",
+      "regNumber": "Н022КМ65",
+      "garageNumber": "",
+      "organization": -1548126420,
+      "invNumber": "",
+      "basePlace": -1548126420,
+      "pts": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "sor": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "abonentTerminals": [
+        {
+          "id": 6230,
+          "code": "862311062519242",
+          "isMain": true,
+          "isActive": true
+        }
+      ],
+      "classByLength": null,
+      "registered": true,
+      "kindType": ""
+    },
+    {
+      "vin": "",
+      "idMO": 7495,
+      "modelOrMarkOrModif": "ПАЗ",
+      "regNumber": "Н317НС65",
+      "garageNumber": "",
+      "organization": -1548126420,
+      "invNumber": "",
+      "basePlace": -1548126420,
+      "pts": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "sor": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "abonentTerminals": [
+        {
+          "id": 6237,
+          "code": "863921036246596",
+          "isMain": true,
+          "isActive": true
+        }
+      ],
+      "classByLength": null,
+      "registered": true,
+      "kindType": "Автобусы"
+    },
+    {
+      "vin": "",
+      "idMO": 7491,
+      "modelOrMarkOrModif": "Прочее",
+      "regNumber": "Н995МР65",
+      "garageNumber": "",
+      "organization": -1548126420,
+      "invNumber": "",
+      "basePlace": -1548126420,
+      "pts": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "sor": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "abonentTerminals": [
+        {
+          "id": 6233,
+          "code": "354762116181857",
+          "isMain": true,
+          "isActive": true
+        }
+      ],
+      "classByLength": null,
+      "registered": true,
+      "kindType": "Водовоз"
+    },
+    {
+      "vin": "",
+      "idMO": 7472,
+      "modelOrMarkOrModif": "КАМАЗ",
+      "regNumber": "М223ХМ65",
+      "garageNumber": "",
+      "organization": -1548126420,
+      "invNumber": "",
+      "basePlace": -1548126420,
+      "pts": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "sor": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "abonentTerminals": [
+        {
+          "id": 6214,
+          "code": "862311062456957",
+          "isMain": true,
+          "isActive": true
+        }
+      ],
+      "classByLength": null,
+      "registered": true,
+      "kindType": ""
+    },
+    {
+      "vin": "",
+      "idMO": 7496,
+      "modelOrMarkOrModif": "Komatsu",
+      "regNumber": "9137СМ",
+      "garageNumber": "",
+      "organization": -1548126420,
+      "invNumber": "",
+      "basePlace": -1548126420,
+      "pts": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "sor": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "abonentTerminals": [
+        {
+          "id": 6238,
+          "code": "863921039012359",
+          "isMain": true,
+          "isActive": true
+        }
+      ],
+      "classByLength": null,
+      "registered": true,
+      "kindType": "Погрузчик"
+    },
+    {
+      "vin": "",
+      "idMO": 7475,
+      "modelOrMarkOrModif": "КАМАЗ",
+      "regNumber": "Н064НА65",
+      "garageNumber": "",
+      "organization": -1548126420,
+      "invNumber": "",
+      "basePlace": -1548126420,
+      "pts": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "sor": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "abonentTerminals": [
+        {
+          "id": 6217,
+          "code": "863921038991629",
+          "isMain": true,
+          "isActive": true
+        }
+      ],
+      "classByLength": null,
+      "registered": true,
+      "kindType": "Буровые установки"
+    },
+    {
+      "vin": "",
+      "idMO": 7497,
+      "modelOrMarkOrModif": "Komatsu",
+      "regNumber": "9158СМ",
+      "garageNumber": "",
+      "organization": -1548126420,
+      "invNumber": "",
+      "basePlace": -1548126420,
+      "pts": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "sor": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "abonentTerminals": [
+        {
+          "id": 6239,
+          "code": "863921038988328",
+          "isMain": true,
+          "isActive": true
+        }
+      ],
+      "classByLength": null,
+      "registered": true,
+      "kindType": "Погрузчик"
+    },
+    {
+      "vin": "",
+      "idMO": 7492,
+      "modelOrMarkOrModif": "ПАЗ",
+      "regNumber": "В891СХ89",
+      "garageNumber": "",
+      "organization": -1548126420,
+      "invNumber": "",
+      "basePlace": -1548126420,
+      "pts": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "sor": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "abonentTerminals": [
+        {
+          "id": 6234,
+          "code": "863921038970136",
+          "isMain": true,
+          "isActive": true
+        }
+      ],
+      "classByLength": null,
+      "registered": true,
+      "kindType": "Автобусы"
+    },
+    {
+      "vin": "",
+      "idMO": 7331,
+      "modelOrMarkOrModif": "УАЗ Фермер",
+      "regNumber": "Н646МА65",
+      "garageNumber": "СУР",
+      "organization": -958634494,
+      "invNumber": "",
+      "basePlace": -71357310,
+      "pts": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "sor": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "abonentTerminals": [
+        {
+          "id": 6122,
+          "code": "354762115409754",
+          "isMain": true,
+          "isActive": true
+        }
+      ],
+      "classByLength": null,
+      "registered": true,
+      "kindType": "Легковой универсал"
+    },
+    {
+      "vin": "",
+      "idMO": 7459,
+      "modelOrMarkOrModif": "УАЗ ПАТРИОТ",
+      "regNumber": "Н233ОТ65",
+      "garageNumber": "Заявочные",
+      "organization": -193914563,
+      "invNumber": "",
+      "basePlace": -71357310,
+      "pts": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "sor": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "abonentTerminals": [
+        {
+          "id": 8236,
+          "code": "862311068621851",
+          "isMain": true,
+          "isActive": true
+        },
+        {
+          "id": 6201,
+          "code": "863921034583495",
+          "isMain": false,
+          "isActive": false
+        }
+      ],
+      "classByLength": null,
+      "registered": true,
+      "kindType": "Легковой"
+    },
+    {
+      "vin": "",
+      "idMO": 7486,
+      "modelOrMarkOrModif": "КАМАЗ Дорожные машины",
+      "regNumber": "М776УС65",
+      "garageNumber": "",
+      "organization": -1548126420,
+      "invNumber": "",
+      "basePlace": -1548126420,
+      "pts": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "sor": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "abonentTerminals": [
+        {
+          "id": 6228,
+          "code": "354762114744862",
+          "isMain": true,
+          "isActive": true
+        }
+      ],
+      "classByLength": null,
+      "registered": true,
+      "kindType": "Комбинированная дорожная машина"
+    },
+    {
+      "vin": "X897886K8G0FF8060",
+      "idMO": 7482,
+      "modelOrMarkOrModif": "Прочее Прочее 7886К8",
+      "regNumber": "М131УВ65",
+      "garageNumber": "",
+      "organization": -1548126420,
+      "invNumber": "",
+      "basePlace": -1548126420,
+      "pts": {
+        "number": "612147",
+        "series": "612147",
+        "date": "07.12.2016"
+      },
+      "sor": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "abonentTerminals": [
+        {
+          "id": 6224,
+          "code": "354762115476043",
+          "isMain": true,
+          "isActive": true
+        }
+      ],
+      "classByLength": {
+        "id": 3,
+        "name": "средний (более 7,5 метров до 10 метров)"
+      },
+      "registered": true,
+      "kindType": "Фургоны"
+    },
+    {
+      "vin": "",
+      "idMO": 7474,
+      "modelOrMarkOrModif": "КАМАЗ",
+      "regNumber": "М677ХК65",
+      "garageNumber": "",
+      "organization": -1548126420,
+      "invNumber": "",
+      "basePlace": -1548126420,
+      "pts": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "sor": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "abonentTerminals": [
+        {
+          "id": 6216,
+          "code": "863921034584790",
+          "isMain": true,
+          "isActive": true
+        }
+      ],
+      "classByLength": null,
+      "registered": true,
+      "kindType": ""
+    },
+    {
+      "vin": "",
+      "idMO": 7494,
+      "modelOrMarkOrModif": "ПАЗ",
+      "regNumber": "Н127ВС65",
+      "garageNumber": "",
+      "organization": -1548126420,
+      "invNumber": "",
+      "basePlace": -1548126420,
+      "pts": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "sor": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "abonentTerminals": [
+        {
+          "id": 6236,
+          "code": "863921034585359",
+          "isMain": true,
+          "isActive": true
+        }
+      ],
+      "classByLength": null,
+      "registered": true,
+      "kindType": "Автобусы"
+    },
+    {
+      "vin": "",
+      "idMO": 7471,
+      "modelOrMarkOrModif": "Прочее",
+      "regNumber": "К909АЕ",
+      "garageNumber": "",
+      "organization": -1548126420,
+      "invNumber": "",
+      "basePlace": -1548126420,
+      "pts": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "sor": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "abonentTerminals": [
+        {
+          "id": 6213,
+          "code": "862311062438351",
+          "isMain": true,
+          "isActive": true
+        }
+      ],
+      "classByLength": null,
+      "registered": false,
+      "kindType": ""
+    },
+    {
+      "vin": "X897886K8F0FF8040",
+      "idMO": 7470,
+      "modelOrMarkOrModif": "Прочее Прочее 7886К8-20",
+      "regNumber": "К740СВ65",
+      "garageNumber": "",
+      "organization": -1548126420,
+      "invNumber": "",
+      "basePlace": -1548126420,
+      "pts": {
+        "number": "146021",
+        "series": "146021",
+        "date": "27.07.2016"
+      },
+      "sor": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "abonentTerminals": [
+        {
+          "id": 6212,
+          "code": "862311062441140",
+          "isMain": true,
+          "isActive": true
+        }
+      ],
+      "classByLength": {
+        "id": 3,
+        "name": "средний (более 7,5 метров до 10 метров)"
+      },
+      "registered": true,
+      "kindType": "Специального назначения"
+    },
+    {
+      "vin": "",
+      "idMO": 7448,
+      "modelOrMarkOrModif": "Exotron",
+      "regNumber": "Н305НС65",
+      "garageNumber": "",
+      "organization": -1548126420,
+      "invNumber": "",
+      "basePlace": -1548126420,
+      "pts": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "sor": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "abonentTerminals": [
+        {
+          "id": 6190,
+          "code": "862311067664043",
+          "isMain": true,
+          "isActive": true
+        }
+      ],
+      "classByLength": null,
+      "registered": true,
+      "kindType": "автотопливозаправщик"
+    },
+    {
+      "vin": "",
+      "idMO": 7636,
+      "modelOrMarkOrModif": "XCMG QY-50К",
+      "regNumber": "H274MB65",
+      "garageNumber": "",
+      "organization": 1580450770,
+      "invNumber": "",
+      "basePlace": 1580450770,
+      "pts": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "sor": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "abonentTerminals": [
+        {
+          "id": 8203,
+          "code": "862311068601184",
+          "isMain": true,
+          "isActive": true
+        }
+      ],
+      "classByLength": null,
+      "registered": true,
+      "kindType": "автокран"
+    },
+    {
+      "vin": "",
+      "idMO": 7641,
+      "modelOrMarkOrModif": "XCMG QY-70K",
+      "regNumber": "Н499ОЕ65",
+      "garageNumber": "",
+      "organization": 1580450770,
+      "invNumber": "",
+      "basePlace": 1580450770,
+      "pts": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "sor": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "abonentTerminals": [
+        {
+          "id": 8226,
+          "code": "862311068600798",
+          "isMain": true,
+          "isActive": true
+        }
+      ],
+      "classByLength": null,
+      "registered": true,
+      "kindType": "Автокран"
+    },
+    {
+      "vin": "L5E6H5D45NAD95890",
+      "idMO": 7453,
+      "modelOrMarkOrModif": "ZOOMLION ZTC800V 1500H",
+      "regNumber": "Н016НА65",
+      "garageNumber": "",
+      "organization": -1548126420,
+      "invNumber": "",
+      "basePlace": -1548126420,
+      "pts": {
+        "number": "164302050545556",
+        "series": "164302050545556",
+        "date": "24.09.2022"
+      },
+      "sor": {
+        "number": "757531",
+        "series": "9944",
+        "date": "10.11.2022"
+      },
+      "abonentTerminals": [
+        {
+          "id": 6195,
+          "code": "863921039001550",
+          "isMain": true,
+          "isActive": true
+        }
+      ],
+      "classByLength": {
+        "id": 3,
+        "name": "средний (более 7,5 метров до 10 метров)"
+      },
+      "registered": true,
+      "kindType": "краны автомобильные"
+    },
+    {
+      "vin": "XZ845717KN3000683",
+      "idMO": 7478,
+      "modelOrMarkOrModif": "ИВАНОВЕЦ КС-45717 К-3",
+      "regNumber": "Н957МР65",
+      "garageNumber": "",
+      "organization": -1548126420,
+      "invNumber": "",
+      "basePlace": -1548126420,
+      "pts": {
+        "number": "164301047768561",
+        "series": "164301047768561",
+        "date": "01.07.2022"
+      },
+      "sor": {
+        "number": "191639",
+        "series": "9948",
+        "date": "24.08.2022"
+      },
+      "abonentTerminals": [
+        {
+          "id": 6220,
+          "code": "863921038991850",
+          "isMain": true,
+          "isActive": true
+        }
+      ],
+      "classByLength": {
+        "id": 3,
+        "name": "средний (более 7,5 метров до 10 метров)"
+      },
+      "registered": true,
+      "kindType": "Краны автомобильные"
+    },
+    {
+      "vin": "",
+      "idMO": 8353,
+      "modelOrMarkOrModif": "АВ 20",
+      "regNumber": "А989НВ",
+      "garageNumber": "",
+      "organization": -677862159,
+      "invNumber": "",
+      "basePlace": null,
+      "pts": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "sor": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "abonentTerminals": [
+        {
+          "id": 7022,
+          "code": "354762115385707",
+          "isMain": false,
+          "isActive": false
+        }
+      ],
+      "classByLength": null,
+      "registered": false,
+      "kindType": ""
+    },
+    {
+      "vin": "MMBJJKL10NH075741",
+      "idMO": 7273,
+      "modelOrMarkOrModif": "MITSUBISHI L200",
+      "regNumber": "Н365НС65",
+      "garageNumber": "СУР",
+      "organization": -1876705102,
+      "invNumber": "",
+      "basePlace": -71357310,
+      "pts": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "sor": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "abonentTerminals": [
+        {
+          "id": 6064,
+          "code": "862311060043336",
+          "isMain": true,
+          "isActive": true
+        }
+      ],
+      "classByLength": {
+        "id": 2,
+        "name": "малый (более 5 метров до 7,5 метров)"
+      },
+      "registered": true,
+      "kindType": "Легковой пикап"
+    },
+    {
+      "vin": "JTMCV05G604133399",
+      "idMO": 7280,
+      "modelOrMarkOrModif": "TOYOTA Land Cruiser 200",
+      "regNumber": "М678ХК65",
+      "garageNumber": "УМПШ",
+      "organization": -1051650200,
+      "invNumber": "",
+      "basePlace": -71357310,
+      "pts": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "sor": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "abonentTerminals": [
+        {
+          "id": 6071,
+          "code": "354762115384460",
+          "isMain": true,
+          "isActive": true
+        }
+      ],
+      "classByLength": {
+        "id": 2,
+        "name": "малый (более 5 метров до 7,5 метров)"
+      },
+      "registered": true,
+      "kindType": "Легковой универсал"
+    },
+    {
+      "vin": "JTEBX3FJ90K299400",
+      "idMO": 7278,
+      "modelOrMarkOrModif": "TOYOTA Land Cruiser Prado",
+      "regNumber": "М347УХ65",
+      "garageNumber": "ВГК",
+      "organization": 1044569550,
+      "invNumber": "",
+      "basePlace": -71357310,
+      "pts": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "sor": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "abonentTerminals": [
+        {
+          "id": 6069,
+          "code": "354762115484039",
+          "isMain": true,
+          "isActive": true
+        }
+      ],
+      "classByLength": {
+        "id": 2,
+        "name": "малый (более 5 метров до 7,5 метров)"
+      },
+      "registered": true,
+      "kindType": "Легковой прочее"
+    },
+    {
+      "vin": "X9L212300L0710252",
+      "idMO": 7284,
+      "modelOrMarkOrModif": "УАЗ ПАТРИОТ",
+      "regNumber": "Н073ОТ65",
+      "garageNumber": "УМПШ",
+      "organization": 1145407761,
+      "invNumber": "",
+      "basePlace": -71357310,
+      "pts": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "sor": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "abonentTerminals": [
+        {
+          "id": 6075,
+          "code": "863921034700255",
+          "isMain": true,
+          "isActive": true
+        }
+      ],
+      "classByLength": {
+        "id": 2,
+        "name": "малый (более 5 метров до 7,5 метров)"
+      },
+      "registered": true,
+      "kindType": "Легковой универсал"
+    },
+    {
+      "vin": "XTT390995R1210462",
+      "idMO": 7291,
+      "modelOrMarkOrModif": "УАЗ Буханка",
+      "regNumber": "Н518ОМ65",
+      "garageNumber": "СУР",
+      "organization": -675864157,
+      "invNumber": "",
+      "basePlace": -71357310,
+      "pts": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "sor": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "abonentTerminals": [
+        {
+          "id": 6082,
+          "code": "862311067630192",
+          "isMain": true,
+          "isActive": true
+        }
+      ],
+      "classByLength": {
+        "id": 2,
+        "name": "малый (более 5 метров до 7,5 метров)"
+      },
+      "registered": true,
+      "kindType": "Легковой прочее"
+    },
+    {
+      "vin": "XTT374195P1205934",
+      "idMO": 7260,
+      "modelOrMarkOrModif": "УАЗ Буханка",
+      "regNumber": "Н167НА65",
+      "garageNumber": "УМПШ",
+      "organization": 363900705,
+      "invNumber": "",
+      "basePlace": -71357310,
+      "pts": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "sor": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "abonentTerminals": [
+        {
+          "id": 6051,
+          "code": "862311061383020",
+          "isMain": true,
+          "isActive": true
+        }
+      ],
+      "classByLength": null,
+      "registered": true,
+      "kindType": "Легковой фургон"
+    },
+    {
+      "vin": "X897726A210GF3017",
+      "idMO": 7487,
+      "modelOrMarkOrModif": "Прочее Прочее",
+      "regNumber": "М779УС65",
+      "garageNumber": "",
+      "organization": -1548126420,
+      "invNumber": "",
+      "basePlace": -1548126420,
+      "pts": {
+        "number": "558881",
+        "series": "558881",
+        "date": "21.05.2018"
+      },
+      "sor": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "abonentTerminals": [
+        {
+          "id": 6229,
+          "code": "354762115476514",
+          "isMain": true,
+          "isActive": true
+        }
+      ],
+      "classByLength": {
+        "id": 3,
+        "name": "средний (более 7,5 метров до 10 метров)"
+      },
+      "registered": true,
+      "kindType": "Фургоны"
+    },
+    {
+      "vin": "XTC646003B1229776",
+      "idMO": 7484,
+      "modelOrMarkOrModif": "Камаз 6460-63 КАМАЗ 6460-63",
+      "regNumber": "М305КН65",
+      "garageNumber": "",
+      "organization": 885977030,
+      "invNumber": "",
+      "basePlace": -1548126420,
+      "pts": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "sor": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "abonentTerminals": [
+        {
+          "id": 6226,
+          "code": "862311062457831",
+          "isMain": true,
+          "isActive": true
+        }
+      ],
+      "classByLength": {
+        "id": 4,
+        "name": "большой (более 10 метров до 16 метров)"
+      },
+      "registered": true,
+      "kindType": "Тягач"
+    },
+    {
+      "vin": "Z783009A2M0064637",
+      "idMO": 7468,
+      "modelOrMarkOrModif": "ГАЗ 3009TF",
+      "regNumber": "Н154КМ65",
+      "garageNumber": "",
+      "organization": -1548126420,
+      "invNumber": "",
+      "basePlace": -1548126420,
+      "pts": {
+        "number": "164301022898881",
+        "series": "164301022898881",
+        "date": "26.03.2021"
+      },
+      "sor": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "abonentTerminals": [
+        {
+          "id": 6210,
+          "code": "354762115467448",
+          "isMain": true,
+          "isActive": true
+        }
+      ],
+      "classByLength": {
+        "id": 2,
+        "name": "малый (более 5 метров до 7,5 метров)"
+      },
+      "registered": true,
+      "kindType": "Специальные прочие"
+    },
+    {
+      "vin": "ZTC532000L0374949",
+      "idMO": 7469,
+      "modelOrMarkOrModif": "КАМАЗ 5320 Грузовой фургон",
+      "regNumber": "К197ТВ65",
+      "garageNumber": "",
+      "organization": -1548126420,
+      "invNumber": "К197ТУ",
+      "basePlace": -1548126420,
+      "pts": {
+        "number": "772442",
+        "series": "772442",
+        "date": "11.03.2020"
+      },
+      "sor": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "abonentTerminals": [
+        {
+          "id": 6211,
+          "code": "354762115467398",
+          "isMain": true,
+          "isActive": true
+        }
+      ],
+      "classByLength": {
+        "id": 2,
+        "name": "малый (более 5 метров до 7,5 метров)"
+      },
+      "registered": true,
+      "kindType": "Грузовой фургон"
+    },
+    {
+      "vin": "X896812MA0AW9049",
+      "idMO": 7483,
+      "modelOrMarkOrModif": "ИВАНОВЕЦ КС-6478 КС-6",
+      "regNumber": "М234ВУ65",
+      "garageNumber": "",
+      "organization": -1548126420,
+      "invNumber": "",
+      "basePlace": -1548126420,
+      "pts": {
+        "number": "558741",
+        "series": "558741",
+        "date": "11.03.2011"
+      },
+      "sor": {
+        "number": "853731",
+        "series": "9919",
+        "date": "08.07.2020"
+      },
+      "abonentTerminals": [
+        {
+          "id": 6225,
+          "code": "863921039014710",
+          "isMain": true,
+          "isActive": true
+        }
+      ],
+      "classByLength": {
+        "id": 3,
+        "name": "средний (более 7,5 метров до 10 метров)"
+      },
+      "registered": true,
+      "kindType": "Краны автомобильные"
+    },
+    {
+      "vin": "X896929E1L4AV4111",
+      "idMO": 7489,
+      "modelOrMarkOrModif": "ЧЕЛЯБИНЕЦ КС-65717 М2-34",
+      "regNumber": "Н142КМ65",
+      "garageNumber": "",
+      "organization": -1548126420,
+      "invNumber": "",
+      "basePlace": -1548126420,
+      "pts": {
+        "number": "264301000116923",
+        "series": "264301000116923",
+        "date": "27.07.2020"
+      },
+      "sor": {
+        "number": "615067",
+        "series": "9926",
+        "date": "20.01.2021"
+      },
+      "abonentTerminals": [
+        {
+          "id": 6231,
+          "code": "862311062505688",
+          "isMain": true,
+          "isActive": true
+        }
+      ],
+      "classByLength": {
+        "id": 3,
+        "name": "средний (более 7,5 метров до 10 метров)"
+      },
+      "registered": true,
+      "kindType": "Краны автомобильные"
+    },
+    {
+      "vin": "",
+      "idMO": 8487,
+      "modelOrMarkOrModif": "УАЗ Hunter",
+      "regNumber": "М636УС65",
+      "garageNumber": "Перевозчик",
+      "organization": -1536042327,
+      "invNumber": "",
+      "basePlace": -71357310,
+      "pts": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "sor": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "abonentTerminals": [
+        {
+          "id": 7101,
+          "code": "864857030925596",
+          "isMain": true,
+          "isActive": true
+        }
+      ],
+      "classByLength": null,
+      "registered": true,
+      "kindType": "Легковой универсал"
+    },
+    {
+      "vin": "",
+      "idMO": 7994,
+      "modelOrMarkOrModif": "JMC Baodian 47722A",
+      "regNumber": "Н589ОМ65",
+      "garageNumber": "",
+      "organization": -1548126420,
+      "invNumber": "",
+      "basePlace": -1548126420,
+      "pts": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "sor": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "abonentTerminals": [
+        {
+          "id": 6643,
+          "code": "862311067275980",
+          "isMain": true,
+          "isActive": true
+        }
+      ],
+      "classByLength": null,
+      "registered": true,
+      "kindType": "Фургоны"
+    },
+    {
+      "vin": "",
+      "idMO": 7993,
+      "modelOrMarkOrModif": "УРАЛ Компрессорная станция",
+      "regNumber": "Н569ОМ65",
+      "garageNumber": "",
+      "organization": -1548126420,
+      "invNumber": "",
+      "basePlace": null,
+      "pts": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "sor": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "abonentTerminals": [
+        {
+          "id": 6642,
+          "code": "862311067418150",
+          "isMain": true,
+          "isActive": true
+        }
+      ],
+      "classByLength": null,
+      "registered": true,
+      "kindType": ""
+    },
+    {
+      "vin": "",
+      "idMO": 8028,
+      "modelOrMarkOrModif": "КАМАЗ КС 50",
+      "regNumber": "К115ОТ65",
+      "garageNumber": "",
+      "organization": 1057905529,
+      "invNumber": "",
+      "basePlace": null,
+      "pts": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "sor": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "abonentTerminals": [
+        {
+          "id": 6724,
+          "code": "860922043035272",
+          "isMain": true,
+          "isActive": true
+        }
+      ],
+      "classByLength": null,
+      "registered": true,
+      "kindType": ""
+    },
+    {
+      "vin": "",
+      "idMO": 8029,
+      "modelOrMarkOrModif": "КАМАЗ КС 50",
+      "regNumber": "У345ТК65",
+      "garageNumber": "",
+      "organization": 1057905529,
+      "invNumber": "",
+      "basePlace": null,
+      "pts": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "sor": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "abonentTerminals": [
+        {
+          "id": 6725,
+          "code": "336020909",
+          "isMain": true,
+          "isActive": true
+        }
+      ],
+      "classByLength": null,
+      "registered": true,
+      "kindType": ""
+    },
+    {
+      "vin": "",
+      "idMO": 8635,
+      "modelOrMarkOrModif": "УАЗ Пикап",
+      "regNumber": "М099УВ65",
+      "garageNumber": "СУР",
+      "organization": -1316287158,
+      "invNumber": "",
+      "basePlace": -71357310,
+      "pts": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "sor": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "abonentTerminals": [
+        {
+          "id": 7258,
+          "code": "354762115404458",
+          "isMain": true,
+          "isActive": true
+        }
+      ],
+      "classByLength": null,
+      "registered": true,
+      "kindType": "Легковой пикап"
+    },
+    {
+      "vin": "",
+      "idMO": 8147,
+      "modelOrMarkOrModif": "КАМАЗ Буровая установка",
+      "regNumber": "М462РВ",
+      "garageNumber": "",
+      "organization": 415736523,
+      "invNumber": "",
+      "basePlace": null,
+      "pts": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "sor": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "abonentTerminals": [
+        {
+          "id": 6851,
+          "code": "863051066249094",
+          "isMain": false,
+          "isActive": false
+        }
+      ],
+      "classByLength": null,
+      "registered": false,
+      "kindType": ""
+    },
+    {
+      "vin": "",
+      "idMO": 8146,
+      "modelOrMarkOrModif": "КАМАЗ Буровая установка",
+      "regNumber": "К144ТХ",
+      "garageNumber": "",
+      "organization": 415736523,
+      "invNumber": "",
+      "basePlace": null,
+      "pts": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "sor": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "abonentTerminals": [
+        {
+          "id": 6850,
+          "code": "863051066323956",
+          "isMain": true,
+          "isActive": true
+        }
+      ],
+      "classByLength": null,
+      "registered": true,
+      "kindType": ""
+    },
+    {
+      "vin": "",
+      "idMO": 8144,
+      "modelOrMarkOrModif": "КАМАЗ Буровая установка",
+      "regNumber": "В298УН",
+      "garageNumber": "",
+      "organization": 415736523,
+      "invNumber": "",
+      "basePlace": null,
+      "pts": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "sor": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "abonentTerminals": [
+        {
+          "id": 6848,
+          "code": "863051066240770",
+          "isMain": false,
+          "isActive": false
+        }
+      ],
+      "classByLength": null,
+      "registered": false,
+      "kindType": ""
+    },
+    {
+      "vin": "",
+      "idMO": 8191,
+      "modelOrMarkOrModif": "TADANO GR-500XL-1",
+      "regNumber": "5387СМ",
+      "garageNumber": "",
+      "organization": 1272778225,
+      "invNumber": "",
+      "basePlace": null,
+      "pts": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "sor": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "abonentTerminals": [
+        {
+          "id": 6895,
+          "code": "866567063348651",
+          "isMain": true,
+          "isActive": true
+        }
+      ],
+      "classByLength": null,
+      "registered": true,
+      "kindType": ""
+    },
+    {
+      "vin": "",
+      "idMO": 8140,
+      "modelOrMarkOrModif": "КАМАЗ Буровая установка",
+      "regNumber": "Н207НА",
+      "garageNumber": "",
+      "organization": -656421074,
+      "invNumber": "",
+      "basePlace": null,
+      "pts": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "sor": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "abonentTerminals": [
+        {
+          "id": 6844,
+          "code": "868184061678978",
+          "isMain": true,
+          "isActive": true
+        }
+      ],
+      "classByLength": null,
+      "registered": true,
+      "kindType": ""
+    },
+    {
+      "vin": "",
+      "idMO": 8141,
+      "modelOrMarkOrModif": "КАМАЗ Буровая установка",
+      "regNumber": "Н338ОМ",
+      "garageNumber": "",
+      "organization": -656421074,
+      "invNumber": "",
+      "basePlace": null,
+      "pts": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "sor": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "abonentTerminals": [
+        {
+          "id": 6845,
+          "code": "862059060092122",
+          "isMain": true,
+          "isActive": true
+        }
+      ],
+      "classByLength": null,
+      "registered": true,
+      "kindType": ""
+    },
+    {
+      "vin": "",
+      "idMO": 8142,
+      "modelOrMarkOrModif": "КАМАЗ Буровая установка",
+      "regNumber": "Н049КУ",
+      "garageNumber": "",
+      "organization": -1737655782,
+      "invNumber": "",
+      "basePlace": null,
+      "pts": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "sor": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "abonentTerminals": [
+        {
+          "id": 6846,
+          "code": "868184064581872",
+          "isMain": true,
+          "isActive": true
+        }
+      ],
+      "classByLength": null,
+      "registered": true,
+      "kindType": ""
+    },
+    {
+      "vin": "",
+      "idMO": 8143,
+      "modelOrMarkOrModif": "MITSUBISHI CANTER",
+      "regNumber": "К157МА",
+      "garageNumber": "",
+      "organization": 415736523,
+      "invNumber": "",
+      "basePlace": null,
+      "pts": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "sor": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "abonentTerminals": [
+        {
+          "id": 6847,
+          "code": "866854056664082",
+          "isMain": true,
+          "isActive": true
+        }
+      ],
+      "classByLength": null,
+      "registered": true,
+      "kindType": ""
+    },
+    {
+      "vin": "",
+      "idMO": 8145,
+      "modelOrMarkOrModif": "КАМАЗ Буровая установка",
+      "regNumber": "В588ХМ",
+      "garageNumber": "",
+      "organization": 415736523,
+      "invNumber": "",
+      "basePlace": null,
+      "pts": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "sor": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "abonentTerminals": [
+        {
+          "id": 6849,
+          "code": "863051063330947",
+          "isMain": true,
+          "isActive": true
+        }
+      ],
+      "classByLength": null,
+      "registered": true,
+      "kindType": ""
+    },
+    {
+      "vin": "",
+      "idMO": 8149,
+      "modelOrMarkOrModif": "КАМАЗ Буровая установка",
+      "regNumber": "Н885РР",
+      "garageNumber": "",
+      "organization": 415736523,
+      "invNumber": "",
+      "basePlace": null,
+      "pts": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "sor": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "abonentTerminals": [
+        {
+          "id": 6853,
+          "code": "863051063416415",
+          "isMain": true,
+          "isActive": true
+        }
+      ],
+      "classByLength": null,
+      "registered": true,
+      "kindType": ""
+    },
+    {
+      "vin": "",
+      "idMO": 8150,
+      "modelOrMarkOrModif": "КАМАЗ Буровая установка",
+      "regNumber": "С977СА",
+      "garageNumber": "",
+      "organization": 415736523,
+      "invNumber": "",
+      "basePlace": null,
+      "pts": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "sor": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "abonentTerminals": [
+        {
+          "id": 6854,
+          "code": "863051066367524",
+          "isMain": true,
+          "isActive": true
+        }
+      ],
+      "classByLength": null,
+      "registered": true,
+      "kindType": ""
+    },
+    {
+      "vin": "",
+      "idMO": 8151,
+      "modelOrMarkOrModif": "КАМАЗ Буровая установка",
+      "regNumber": "Т398СВ",
+      "garageNumber": "",
+      "organization": 415736523,
+      "invNumber": "",
+      "basePlace": null,
+      "pts": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "sor": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "abonentTerminals": [
+        {
+          "id": 6855,
+          "code": "863051066181263",
+          "isMain": true,
+          "isActive": true
+        }
+      ],
+      "classByLength": null,
+      "registered": true,
+      "kindType": ""
+    },
+    {
+      "vin": "",
+      "idMO": 8148,
+      "modelOrMarkOrModif": "КАМАЗ Буровая установка",
+      "regNumber": "М780ОВ",
+      "garageNumber": "",
+      "organization": 415736523,
+      "invNumber": "",
+      "basePlace": null,
+      "pts": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "sor": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "abonentTerminals": [
+        {
+          "id": 6852,
+          "code": "863051063332372",
+          "isMain": false,
+          "isActive": false
+        }
+      ],
+      "classByLength": null,
+      "registered": false,
+      "kindType": ""
+    },
+    {
+      "vin": "",
+      "idMO": 8190,
+      "modelOrMarkOrModif": "LIEBHERR LTM краны с телескопической стрелой",
+      "regNumber": "М924РВ",
+      "garageNumber": "",
+      "organization": 1272778225,
+      "invNumber": "",
+      "basePlace": null,
+      "pts": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "sor": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "abonentTerminals": [
+        {
+          "id": 6894,
+          "code": "861100069218416",
+          "isMain": true,
+          "isActive": true
+        }
+      ],
+      "classByLength": null,
+      "registered": true,
+      "kindType": ""
+    },
+    {
+      "vin": "",
+      "idMO": 8192,
+      "modelOrMarkOrModif": "TADANO ATF160G-5",
+      "regNumber": "5100СО",
+      "garageNumber": "",
+      "organization": 1272778225,
+      "invNumber": "",
+      "basePlace": null,
+      "pts": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "sor": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "abonentTerminals": [
+        {
+          "id": 6896,
+          "code": "866567066120263",
+          "isMain": true,
+          "isActive": true
+        }
+      ],
+      "classByLength": null,
+      "registered": true,
+      "kindType": ""
+    },
+    {
+      "vin": "",
+      "idMO": 7493,
+      "modelOrMarkOrModif": "ПАЗ",
+      "regNumber": "М286ХМ65",
+      "garageNumber": "",
+      "organization": -1548126420,
+      "invNumber": "",
+      "basePlace": -1548126420,
+      "pts": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "sor": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "abonentTerminals": [
+        {
+          "id": 6235,
+          "code": "862311060065545",
+          "isMain": true,
+          "isActive": true
+        }
+      ],
+      "classByLength": null,
+      "registered": true,
+      "kindType": "Автобусы"
+    },
+    {
+      "vin": "",
+      "idMO": 7465,
+      "modelOrMarkOrModif": "АТЗ",
+      "regNumber": "Н305НС",
+      "garageNumber": "",
+      "organization": 887183744,
+      "invNumber": "",
+      "basePlace": -1548126420,
+      "pts": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "sor": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "abonentTerminals": [
+        {
+          "id": 6207,
+          "code": "863921038970904",
+          "isMain": true,
+          "isActive": true
+        }
+      ],
+      "classByLength": null,
+      "registered": true,
+      "kindType": "автотопливозаправщик"
+    },
+    {
+      "vin": "",
+      "idMO": 7457,
+      "modelOrMarkOrModif": "АТЗ",
+      "regNumber": "М262УК65",
+      "garageNumber": "",
+      "organization": 887183744,
+      "invNumber": "",
+      "basePlace": -1548126420,
+      "pts": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "sor": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "abonentTerminals": [
+        {
+          "id": 6199,
+          "code": "863921036283193",
+          "isMain": true,
+          "isActive": true
+        }
+      ],
+      "classByLength": null,
+      "registered": true,
+      "kindType": "автотопливозаправщик"
+    },
+    {
+      "vin": "",
+      "idMO": 8692,
+      "modelOrMarkOrModif": "АТЗ",
+      "regNumber": "Н011НА65",
+      "garageNumber": "",
+      "organization": 887183744,
+      "invNumber": "",
+      "basePlace": -1548126420,
+      "pts": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "sor": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "abonentTerminals": [
+        {
+          "id": 7315,
+          "code": "863921038975424",
+          "isMain": true,
+          "isActive": true
+        }
+      ],
+      "classByLength": null,
+      "registered": true,
+      "kindType": "Автотопливозаправщики"
+    },
+    {
+      "vin": "",
+      "idMO": 7462,
+      "modelOrMarkOrModif": "АТЗ",
+      "regNumber": "М422РВ65",
+      "garageNumber": "",
+      "organization": 887183744,
+      "invNumber": "",
+      "basePlace": -1548126420,
+      "pts": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "sor": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "abonentTerminals": [
+        {
+          "id": 6204,
+          "code": "863921036311077",
+          "isMain": true,
+          "isActive": true
+        }
+      ],
+      "classByLength": null,
+      "registered": true,
+      "kindType": "автотопливозаправщик"
+    },
+    {
+      "vin": "",
+      "idMO": 7461,
+      "modelOrMarkOrModif": "АТЗ",
+      "regNumber": "Н347НС65",
+      "garageNumber": "",
+      "organization": 887183744,
+      "invNumber": "",
+      "basePlace": -1548126420,
+      "pts": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "sor": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "abonentTerminals": [
+        {
+          "id": 6203,
+          "code": "863921038989094",
+          "isMain": true,
+          "isActive": true
+        }
+      ],
+      "classByLength": null,
+      "registered": true,
+      "kindType": "Автотопливозаправщики"
+    },
+    {
+      "vin": "MMBJJKL10NH071845",
+      "idMO": 7274,
+      "modelOrMarkOrModif": "MITSUBISHI L200",
+      "regNumber": "Н381НС65",
+      "garageNumber": "СУР",
+      "organization": -1616263418,
+      "invNumber": "",
+      "basePlace": -71357310,
+      "pts": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "sor": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "abonentTerminals": [
+        {
+          "id": 6065,
+          "code": "862311060043849",
+          "isMain": true,
+          "isActive": true
+        }
+      ],
+      "classByLength": {
+        "id": 2,
+        "name": "малый (более 5 метров до 7,5 метров)"
+      },
+      "registered": true,
+      "kindType": "Легковой пикап"
+    },
+    {
+      "vin": "MR0KX3FS400814331",
+      "idMO": 7262,
+      "modelOrMarkOrModif": "TOYOTA Fortuner",
+      "regNumber": "Н150КМ65",
+      "garageNumber": "СУР",
+      "organization": 226059703,
+      "invNumber": "",
+      "basePlace": -71357310,
+      "pts": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "sor": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "abonentTerminals": [
+        {
+          "id": 6053,
+          "code": "354762114744821",
+          "isMain": true,
+          "isActive": true
+        }
+      ],
+      "classByLength": {
+        "id": 2,
+        "name": "малый (более 5 метров до 7,5 метров)"
+      },
+      "registered": true,
+      "kindType": "Легковой универсал"
+    },
+    {
+      "vin": "HDJ810077099",
+      "idMO": 7277,
+      "modelOrMarkOrModif": "TOYOTA LAND CRUISER HDJ 80",
+      "regNumber": "К983ХМ65",
+      "garageNumber": "ВГК",
+      "organization": -1888731318,
+      "invNumber": "",
+      "basePlace": -71357310,
+      "pts": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "sor": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "abonentTerminals": [
+        {
+          "id": 6068,
+          "code": "354762115404516",
+          "isMain": true,
+          "isActive": true
+        }
+      ],
+      "classByLength": null,
+      "registered": true,
+      "kindType": "Легковой универсал"
+    },
+    {
+      "vin": "JTEBR3FJ00K065611",
+      "idMO": 7281,
+      "modelOrMarkOrModif": "TOYOTA LAND CRUISER PRADO 150",
+      "regNumber": "М968УК65",
+      "garageNumber": "СУР",
+      "organization": -620317682,
+      "invNumber": "",
+      "basePlace": -71357310,
+      "pts": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "sor": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "abonentTerminals": [
+        {
+          "id": 6072,
+          "code": "354762115438761",
+          "isMain": true,
+          "isActive": true
+        }
+      ],
+      "classByLength": {
+        "id": 2,
+        "name": "малый (более 5 метров до 7,5 метров)"
+      },
+      "registered": true,
+      "kindType": "Легковой прочее"
+    },
+    {
+      "vin": "MR0KX3FS000814083",
+      "idMO": 7264,
+      "modelOrMarkOrModif": "TOYOTA Fortuner",
+      "regNumber": "Н835КС65",
+      "garageNumber": "СУР",
+      "organization": -635683801,
+      "invNumber": "",
+      "basePlace": -71357310,
+      "pts": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "sor": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "abonentTerminals": [
+        {
+          "id": 6055,
+          "code": "354762114748210",
+          "isMain": true,
+          "isActive": true
+        }
+      ],
+      "classByLength": null,
+      "registered": true,
+      "kindType": "Автомобили легковые"
+    },
+    {
+      "vin": "XTT390945N1202209",
+      "idMO": 7300,
+      "modelOrMarkOrModif": "УАЗ Фермер",
+      "regNumber": "Н665МА65",
+      "garageNumber": "СУР",
+      "organization": 680532175,
+      "invNumber": "",
+      "basePlace": -71357310,
+      "pts": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "sor": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "abonentTerminals": [
+        {
+          "id": 6091,
+          "code": "354762115472604",
+          "isMain": true,
+          "isActive": true
+        }
+      ],
+      "classByLength": null,
+      "registered": true,
+      "kindType": "Легковой прочее"
+    },
+    {
+      "vin": "XTT316300J1020030",
+      "idMO": 7313,
+      "modelOrMarkOrModif": "УАЗ ПАТРИОТ",
+      "regNumber": "М824УС65",
+      "garageNumber": "",
+      "organization": -1239446578,
+      "invNumber": "",
+      "basePlace": -1792956696,
+      "pts": {
+        "number": "610255",
+        "series": "610255",
+        "date": null
+      },
+      "sor": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "abonentTerminals": [
+        {
+          "id": 6104,
+          "code": "354762115410729",
+          "isMain": true,
+          "isActive": true
+        }
+      ],
+      "classByLength": null,
+      "registered": true,
+      "kindType": "Легковой универсал"
+    },
+    {
+      "vin": "XTT390995J1211834",
+      "idMO": 7286,
+      "modelOrMarkOrModif": "УАЗ Пикап",
+      "regNumber": "Н167ОТ65",
+      "garageNumber": "Каршеринг",
+      "organization": -1911663109,
+      "invNumber": "",
+      "basePlace": -71357310,
+      "pts": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "sor": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "abonentTerminals": [
+        {
+          "id": 7963,
+          "code": "354762115384551",
+          "isMain": true,
+          "isActive": true
+        },
+        {
+          "id": 6077,
+          "code": "862311068558012",
+          "isMain": false,
+          "isActive": false
+        }
+      ],
+      "classByLength": {
+        "id": 2,
+        "name": "малый (более 5 метров до 7,5 метров)"
+      },
+      "registered": true,
+      "kindType": "Легковой прочее"
+    },
+    {
+      "vin": "",
+      "idMO": 9348,
+      "modelOrMarkOrModif": "УАЗ Пикап",
+      "regNumber": "Н181ОТ65",
+      "garageNumber": "СУР",
+      "organization": -2104255823,
+      "invNumber": "",
+      "basePlace": -71357310,
+      "pts": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "sor": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "abonentTerminals": [
+        {
+          "id": 7973,
+          "code": "862311068558012",
+          "isMain": true,
+          "isActive": true
+        }
+      ],
+      "classByLength": null,
+      "registered": true,
+      "kindType": ""
+    },
+    {
+      "vin": "XTT390995N1213862",
+      "idMO": 7303,
+      "modelOrMarkOrModif": "УАЗ Буханка",
+      "regNumber": "Н966МР65",
+      "garageNumber": "СУР",
+      "organization": 1105267749,
+      "invNumber": "",
+      "basePlace": -71357310,
+      "pts": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "sor": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "abonentTerminals": [
+        {
+          "id": 6094,
+          "code": "863921038975028",
+          "isMain": true,
+          "isActive": true
+        }
+      ],
+      "classByLength": null,
+      "registered": true,
+      "kindType": "Легковой"
+    },
+    {
+      "vin": "XTT390995N1201911",
+      "idMO": 7288,
+      "modelOrMarkOrModif": "УАЗ Буханка",
+      "regNumber": "Н605МА65",
+      "garageNumber": "УМПШ",
+      "organization": -1766563644,
+      "invNumber": "",
+      "basePlace": -71357310,
+      "pts": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "sor": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "abonentTerminals": [
+        {
+          "id": 6079,
+          "code": "863921038998947",
+          "isMain": true,
+          "isActive": true
+        }
+      ],
+      "classByLength": null,
+      "registered": true,
+      "kindType": "Легковой прочее"
+    },
+    {
+      "vin": "MR0KX3FS700812699",
+      "idMO": 7261,
+      "modelOrMarkOrModif": "TOYOTA Fortuner",
+      "regNumber": "Н050ВС65",
+      "garageNumber": "ВГК",
+      "organization": -1170990816,
+      "invNumber": "",
+      "basePlace": -71357310,
+      "pts": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "sor": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "abonentTerminals": [
+        {
+          "id": 6052,
+          "code": "863921036248675",
+          "isMain": true,
+          "isActive": true
+        }
+      ],
+      "classByLength": {
+        "id": 2,
+        "name": "малый (более 5 метров до 7,5 метров)"
+      },
+      "registered": true,
+      "kindType": "Легковой прочее"
+    },
+    {
+      "vin": "XTA212300N0800256",
+      "idMO": 7285,
+      "modelOrMarkOrModif": "LADA Niva",
+      "regNumber": "Н694МА65",
+      "garageNumber": "ВГК Сервис",
+      "organization": 621488421,
+      "invNumber": "",
+      "basePlace": -71357310,
+      "pts": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "sor": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "abonentTerminals": [
+        {
+          "id": 6076,
+          "code": "354762115472448",
+          "isMain": true,
+          "isActive": true
+        }
+      ],
+      "classByLength": {
+        "id": 2,
+        "name": "малый (более 5 метров до 7,5 метров)"
+      },
+      "registered": true,
+      "kindType": "Легковой универсал"
+    },
+    {
+      "vin": "",
+      "idMO": 8223,
+      "modelOrMarkOrModif": "УАЗ Буханка",
+      "regNumber": "Н073НА65",
+      "garageNumber": "ВГК",
+      "organization": -2041835488,
+      "invNumber": "",
+      "basePlace": -71357310,
+      "pts": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "sor": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "abonentTerminals": [
+        {
+          "id": 6918,
+          "code": "863921039011559",
+          "isMain": true,
+          "isActive": true
+        }
+      ],
+      "classByLength": null,
+      "registered": true,
+      "kindType": "Легковой фургон"
+    },
+    {
+      "vin": "",
+      "idMO": 7299,
+      "modelOrMarkOrModif": "УАЗ Фермер",
+      "regNumber": "Н440НС65",
+      "garageNumber": "ВГК Сервис",
+      "organization": 1811590406,
+      "invNumber": "",
+      "basePlace": -71357310,
+      "pts": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "sor": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "abonentTerminals": [
+        {
+          "id": 6090,
+          "code": "862311062515190",
+          "isMain": true,
+          "isActive": true
+        }
+      ],
+      "classByLength": null,
+      "registered": true,
+      "kindType": "Легковой пикап"
+    },
+    {
+      "vin": "JN1TANY62U0000327",
+      "idMO": 7275,
+      "modelOrMarkOrModif": "NISSAN Patrol",
+      "regNumber": "Н415ВН65",
+      "garageNumber": "Перевозчик",
+      "organization": 1393677131,
+      "invNumber": "",
+      "basePlace": -71357310,
+      "pts": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "sor": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "abonentTerminals": [
+        {
+          "id": 6066,
+          "code": "354762115473990",
+          "isMain": true,
+          "isActive": true
+        }
+      ],
+      "classByLength": null,
+      "registered": true,
+      "kindType": "Легковой"
+    },
+    {
+      "vin": "",
+      "idMO": 8010,
+      "modelOrMarkOrModif": "УАЗ ПАТРИОТ",
+      "regNumber": "Н232ОТ65",
+      "garageNumber": "ВГК",
+      "organization": 1406701379,
+      "invNumber": "",
+      "basePlace": -71357310,
+      "pts": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "sor": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "abonentTerminals": [
+        {
+          "id": 8219,
+          "code": "862311068560349",
+          "isMain": true,
+          "isActive": true
+        },
+        {
+          "id": 6688,
+          "code": "354762115383892",
+          "isMain": false,
+          "isActive": false
+        }
+      ],
+      "classByLength": null,
+      "registered": true,
+      "kindType": "Легковой универсал"
+    },
+    {
+      "vin": "XTT236320L1013960",
+      "idMO": 7097,
+      "modelOrMarkOrModif": "УАЗ Пикап",
+      "regNumber": "Н170ВС65",
+      "garageNumber": "Подменные",
+      "organization": -1060481561,
+      "invNumber": "",
+      "basePlace": -71357310,
+      "pts": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "sor": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "abonentTerminals": [
+        {
+          "id": 6123,
+          "code": "864857030932139",
+          "isMain": true,
+          "isActive": true
+        }
+      ],
+      "classByLength": {
+        "id": 2,
+        "name": "малый (более 5 метров до 7,5 метров)"
+      },
+      "registered": true,
+      "kindType": "Легковой пикап"
+    },
+    {
+      "vin": "XTT316300H1014715",
+      "idMO": 8766,
+      "modelOrMarkOrModif": "УАЗ ПАТРИОТ",
+      "regNumber": "М577УС65",
+      "garageNumber": "ВГК Сервис",
+      "organization": 2012561940,
+      "invNumber": "",
+      "basePlace": -71357310,
+      "pts": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "sor": {
+        "number": "857498",
+        "series": "6554",
+        "date": null
+      },
+      "abonentTerminals": [
+        {
+          "id": 7643,
+          "code": "354762115473354",
+          "isMain": true,
+          "isActive": true
+        }
+      ],
+      "classByLength": null,
+      "registered": true,
+      "kindType": "Легковой универсал"
+    },
+    {
+      "vin": "JTJCV00W804010347",
+      "idMO": 7270,
+      "modelOrMarkOrModif": "LEXUS LX 450",
+      "regNumber": "М004СВ65",
+      "garageNumber": "УМПШ",
+      "organization": -261690659,
+      "invNumber": "",
+      "basePlace": -71357310,
+      "pts": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "sor": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "abonentTerminals": [
+        {
+          "id": 6061,
+          "code": "354762116181808",
+          "isMain": true,
+          "isActive": true
+        }
+      ],
+      "classByLength": {
+        "id": 2,
+        "name": "малый (более 5 метров до 7,5 метров)"
+      },
+      "registered": true,
+      "kindType": "Легковой прочее"
+    },
+    {
+      "vin": "",
+      "idMO": 8769,
+      "modelOrMarkOrModif": "TOYOTA LAND CRUISER 100 4.7",
+      "regNumber": "Н435НС65",
+      "garageNumber": "СУР",
+      "organization": 1277698888,
+      "invNumber": "",
+      "basePlace": null,
+      "pts": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "sor": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "abonentTerminals": [
+        {
+          "id": 8282,
+          "code": "862311067350452",
+          "isMain": true,
+          "isActive": false
+        },
+        {
+          "id": 8283,
+          "code": "862311067350452",
+          "isMain": true,
+          "isActive": true
+        }
+      ],
+      "classByLength": null,
+      "registered": true,
+      "kindType": "Легковой универсал"
+    },
+    {
+      "vin": "",
+      "idMO": 8767,
+      "modelOrMarkOrModif": "TOYOTA Land Cruiser Prado",
+      "regNumber": "К932ТА65",
+      "garageNumber": "УМПШ",
+      "organization": 1114355255,
+      "invNumber": "",
+      "basePlace": null,
+      "pts": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "sor": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "abonentTerminals": [
+        {
+          "id": 8259,
+          "code": "862311066833193",
+          "isMain": true,
+          "isActive": true
+        }
+      ],
+      "classByLength": null,
+      "registered": true,
+      "kindType": "Легковой универсал"
+    },
+    {
+      "vin": "",
+      "idMO": 7319,
+      "modelOrMarkOrModif": "УАЗ ПАТРИОТ",
+      "regNumber": "Н347ОМ65",
+      "garageNumber": "Заявочные",
+      "organization": -193914563,
+      "invNumber": "",
+      "basePlace": -71357310,
+      "pts": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "sor": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "abonentTerminals": [
+        {
+          "id": 6110,
+          "code": "862311062478423",
+          "isMain": true,
+          "isActive": true
+        }
+      ],
+      "classByLength": null,
+      "registered": true,
+      "kindType": "Легковой универсал"
+    },
+    {
+      "vin": "",
+      "idMO": 8768,
+      "modelOrMarkOrModif": "TOYOTA Land Cruiser Prado",
+      "regNumber": "Н571ОМ65",
+      "garageNumber": "Заявочные",
+      "organization": -193914563,
+      "invNumber": "",
+      "basePlace": null,
+      "pts": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "sor": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "abonentTerminals": [
+        {
+          "id": 8260,
+          "code": "862311067414241",
+          "isMain": true,
+          "isActive": true
+        }
+      ],
+      "classByLength": null,
+      "registered": true,
+      "kindType": "Легковой универсал"
+    },
+    {
+      "vin": "X8932591NG0AY4168",
+      "idMO": 7282,
+      "modelOrMarkOrModif": "ГАЗ",
+      "regNumber": "М132ХМ65",
+      "garageNumber": "ВГК Сервис",
+      "organization": 1782928854,
+      "invNumber": "",
+      "basePlace": -71357310,
+      "pts": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "sor": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "abonentTerminals": [
+        {
+          "id": 6073,
+          "code": "354762115474915",
+          "isMain": true,
+          "isActive": true
+        }
+      ],
+      "classByLength": {
+        "id": 2,
+        "name": "малый (более 5 метров до 7,5 метров)"
+      },
+      "registered": true,
+      "kindType": "Легковой фургон"
+    },
+    {
+      "vin": "X9L212300L0712009",
+      "idMO": 7283,
+      "modelOrMarkOrModif": "УАЗ ПАТРИОТ",
+      "regNumber": "Н043ОТ65",
+      "garageNumber": "Никольский камень",
+      "organization": -958952213,
+      "invNumber": "",
+      "basePlace": -71357310,
+      "pts": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "sor": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "abonentTerminals": [
+        {
+          "id": 6074,
+          "code": "862311068559127",
+          "isMain": true,
+          "isActive": true
+        }
+      ],
+      "classByLength": null,
+      "registered": true,
+      "kindType": "Легковой прочее"
+    },
+    {
+      "vin": "XTT390995PL211757",
+      "idMO": 7296,
+      "modelOrMarkOrModif": "УАЗ Буханка",
+      "regNumber": "Н359НС65",
+      "garageNumber": "ВГК БВР",
+      "organization": 201233970,
+      "invNumber": "",
+      "basePlace": -71357310,
+      "pts": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "sor": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "abonentTerminals": [
+        {
+          "id": 6087,
+          "code": "862311060059050",
+          "isMain": true,
+          "isActive": true
+        }
+      ],
+      "classByLength": null,
+      "registered": true,
+      "kindType": "Легковой фургон"
+    },
+    {
+      "vin": "LJ11PAB56PC015918",
+      "idMO": 7267,
+      "modelOrMarkOrModif": "JAC T6",
+      "regNumber": "Н476НС65",
+      "garageNumber": "ВГК БВР",
+      "organization": 620846471,
+      "invNumber": "",
+      "basePlace": -71357310,
+      "pts": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "sor": {
+        "number": "344671",
+        "series": "9959",
+        "date": null
+      },
+      "abonentTerminals": [
+        {
+          "id": 6058,
+          "code": "862311062492259",
+          "isMain": true,
+          "isActive": true
+        }
+      ],
+      "classByLength": null,
+      "registered": true,
+      "kindType": "Легковой пикап"
+    },
+    {
+      "vin": "JTJCV00WX04010205",
+      "idMO": 7269,
+      "modelOrMarkOrModif": "LEXUS LX 450",
+      "regNumber": "М232ХМ65",
+      "garageNumber": "СУР",
+      "organization": 965026883,
+      "invNumber": "",
+      "basePlace": -71357310,
+      "pts": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "sor": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "abonentTerminals": [
+        {
+          "id": 6060,
+          "code": "862311061311831",
+          "isMain": true,
+          "isActive": true
+        },
+        {
+          "id": 7969,
+          "code": "phone_7269",
+          "isMain": false,
+          "isActive": true
+        }
+      ],
+      "classByLength": null,
+      "registered": true,
+      "kindType": "Автомобили легковые"
+    },
+    {
+      "vin": "XTT236320N1002765",
+      "idMO": 7329,
+      "modelOrMarkOrModif": "УАЗ Пикап",
+      "regNumber": "Н622МА65",
+      "garageNumber": "ВГК",
+      "organization": 1603540923,
+      "invNumber": "",
+      "basePlace": -71357310,
+      "pts": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "sor": {
+        "number": "777932",
+        "series": "9927",
+        "date": null
+      },
+      "abonentTerminals": [
+        {
+          "id": 6120,
+          "code": "864857030767113",
+          "isMain": true,
+          "isActive": true
+        }
+      ],
+      "classByLength": null,
+      "registered": true,
+      "kindType": "Легковой пикап"
+    },
+    {
+      "vin": "",
+      "idMO": 7314,
+      "modelOrMarkOrModif": "УАЗ ПАТРИОТ",
+      "regNumber": "М870УС65",
+      "garageNumber": "СУР",
+      "organization": -1334459913,
+      "invNumber": "",
+      "basePlace": -71357310,
+      "pts": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "sor": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "abonentTerminals": [
+        {
+          "id": 6105,
+          "code": "863921038988658",
+          "isMain": true,
+          "isActive": true
+        }
+      ],
+      "classByLength": null,
+      "registered": true,
+      "kindType": "Легковой универсал"
+    },
+    {
+      "vin": "отсутствует",
+      "idMO": 7279,
+      "modelOrMarkOrModif": "TOYOTA LAND CRUISER HDJ 80",
+      "regNumber": "М540OK65",
+      "garageNumber": "Перевозчик",
+      "organization": 1537382803,
+      "invNumber": "",
+      "basePlace": -71357310,
+      "pts": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "sor": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "abonentTerminals": [
+        {
+          "id": 6070,
+          "code": "354762116188902",
+          "isMain": true,
+          "isActive": true
+        }
+      ],
+      "classByLength": {
+        "id": 2,
+        "name": "малый (более 5 метров до 7,5 метров)"
+      },
+      "registered": true,
+      "kindType": "Легковой прочее"
+    },
+    {
+      "vin": "",
+      "idMO": 8722,
+      "modelOrMarkOrModif": "УАЗ ПАТРИОТ",
+      "regNumber": "Н091ОТ65",
+      "garageNumber": "СУР",
+      "organization": -1941955576,
+      "invNumber": "",
+      "basePlace": -71357310,
+      "pts": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "sor": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "abonentTerminals": [
+        {
+          "id": 7341,
+          "code": "862311068600475",
+          "isMain": true,
+          "isActive": true
+        }
+      ],
+      "classByLength": null,
+      "registered": true,
+      "kindType": "Легковой универсал"
+    },
+    {
+      "vin": "",
+      "idMO": 8772,
+      "modelOrMarkOrModif": "TOYOTA LAND CRUISER 100 4.7",
+      "regNumber": "М539ОК65",
+      "garageNumber": "ВГК",
+      "organization": 1406701379,
+      "invNumber": "",
+      "basePlace": null,
+      "pts": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "sor": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "abonentTerminals": [
+        {
+          "id": 8398,
+          "code": "862311066901222",
+          "isMain": false,
+          "isActive": false
+        }
+      ],
+      "classByLength": null,
+      "registered": true,
+      "kindType": "Легковой универсал"
+    },
+    {
+      "vin": "",
+      "idMO": 7317,
+      "modelOrMarkOrModif": "УАЗ ПАТРИОТ",
+      "regNumber": "Н323ОМ65",
+      "garageNumber": "СУР",
+      "organization": -1941955573,
+      "invNumber": "",
+      "basePlace": -71357310,
+      "pts": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "sor": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "abonentTerminals": [
+        {
+          "id": 6108,
+          "code": "862311064048893",
+          "isMain": true,
+          "isActive": true
+        }
+      ],
+      "classByLength": null,
+      "registered": true,
+      "kindType": "Легковой универсал"
+    },
+    {
+      "vin": "",
+      "idMO": 7312,
+      "modelOrMarkOrModif": "УАЗ ПАТРИОТ",
+      "regNumber": "М785УС65",
+      "garageNumber": "СУР",
+      "organization": -1941955571,
+      "invNumber": "",
+      "basePlace": -71357310,
+      "pts": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "sor": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "abonentTerminals": [
+        {
+          "id": 6103,
+          "code": "862311062520034",
+          "isMain": true,
+          "isActive": true
+        }
+      ],
+      "classByLength": null,
+      "registered": true,
+      "kindType": "Легковой универсал"
+    },
+    {
+      "vin": "",
+      "idMO": 8770,
+      "modelOrMarkOrModif": "TOYOTA Hilux Surf",
+      "regNumber": "М320СХ65",
+      "garageNumber": "УМПШ",
+      "organization": 1114355255,
+      "invNumber": "",
+      "basePlace": null,
+      "pts": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "sor": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "abonentTerminals": [
+        {
+          "id": 8261,
+          "code": "862311067341022",
+          "isMain": true,
+          "isActive": true
+        }
+      ],
+      "classByLength": null,
+      "registered": true,
+      "kindType": "Легковой универсал"
+    },
+    {
+      "vin": "X96275270R0993688",
+      "idMO": 8602,
+      "modelOrMarkOrModif": "ГАЗ 2752 \"СОБОЛЬ\"",
+      "regNumber": "Н581ОМ65",
+      "garageNumber": "Заявочные",
+      "organization": -193914563,
+      "invNumber": "",
+      "basePlace": -71357310,
+      "pts": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "sor": {
+        "number": "440183",
+        "series": "9969",
+        "date": null
+      },
+      "abonentTerminals": [
+        {
+          "id": 7225,
+          "code": "862311068630522",
+          "isMain": true,
+          "isActive": true
+        }
+      ],
+      "classByLength": null,
+      "registered": true,
+      "kindType": "Легковой фургон"
+    },
+    {
+      "vin": "",
+      "idMO": 7326,
+      "modelOrMarkOrModif": "TOYOTA Land Cruiser Prado",
+      "regNumber": "Х648ЕН65",
+      "garageNumber": "УМПШ",
+      "organization": -1066110178,
+      "invNumber": "",
+      "basePlace": null,
+      "pts": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "sor": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "abonentTerminals": [
+        {
+          "id": 8399,
+          "code": "862311067613214",
+          "isMain": true,
+          "isActive": true
+        },
+        {
+          "id": 6117,
+          "code": "326007809",
+          "isMain": false,
+          "isActive": false
+        }
+      ],
+      "classByLength": null,
+      "registered": true,
+      "kindType": "Легковой"
+    },
+    {
+      "vin": "",
+      "idMO": 8765,
+      "modelOrMarkOrModif": "TOYOTA Land Cruiser 200",
+      "regNumber": "К004ХВ65",
+      "garageNumber": "ВГК",
+      "organization": 209906496,
+      "invNumber": "",
+      "basePlace": null,
+      "pts": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "sor": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "abonentTerminals": [],
+      "classByLength": null,
+      "registered": false,
+      "kindType": "Легковой универсал"
+    },
+    {
+      "vin": "",
+      "idMO": 8773,
+      "modelOrMarkOrModif": "УАЗ ПАТРИОТ",
+      "regNumber": "Н053ОТ65",
+      "garageNumber": "ВГК",
+      "organization": 1406701379,
+      "invNumber": "",
+      "basePlace": null,
+      "pts": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "sor": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "abonentTerminals": [],
+      "classByLength": null,
+      "registered": false,
+      "kindType": "Легковой пикап"
+    },
+    {
+      "vin": "",
+      "idMO": 8771,
+      "modelOrMarkOrModif": "TOYOTA Land Cruiser 200",
+      "regNumber": "М004ОА65",
+      "garageNumber": "Перевозчик",
+      "organization": -209609352,
+      "invNumber": "",
+      "basePlace": null,
+      "pts": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "sor": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "abonentTerminals": [],
+      "classByLength": null,
+      "registered": false,
+      "kindType": "Легковой универсал"
+    },
+    {
+      "vin": "XTT316300H1013770",
+      "idMO": 7310,
+      "modelOrMarkOrModif": "УАЗ ПАТРИОТ",
+      "regNumber": "М337УК65",
+      "garageNumber": "Заявочные\\подменные",
+      "organization": -1060481561,
+      "invNumber": "",
+      "basePlace": -71357310,
+      "pts": {
+        "number": "857036",
+        "series": "857036",
+        "date": null
+      },
+      "sor": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "abonentTerminals": [
+        {
+          "id": 6101,
+          "code": "354762116181956",
+          "isMain": true,
+          "isActive": true
+        }
+      ],
+      "classByLength": null,
+      "registered": true,
+      "kindType": "Легковой универсал"
+    },
+    {
+      "vin": "LJ11PAB5XPC031274",
+      "idMO": 7266,
+      "modelOrMarkOrModif": "JAC T8",
+      "regNumber": "Н321ОМ65",
+      "garageNumber": "Заявочные",
+      "organization": -193914563,
+      "invNumber": "",
+      "basePlace": -71357310,
+      "pts": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "sor": {
+        "number": "812652",
+        "series": "9962",
+        "date": null
+      },
+      "abonentTerminals": [
+        {
+          "id": 6057,
+          "code": "862311062492044",
+          "isMain": true,
+          "isActive": true
+        }
+      ],
+      "classByLength": null,
+      "registered": true,
+      "kindType": "Легковой пикап"
+    },
+    {
+      "vin": "",
+      "idMO": 8281,
+      "modelOrMarkOrModif": "ГАЗ 14 «Чайка»",
+      "regNumber": "Н071ОТ65",
+      "garageNumber": "",
+      "organization": -1548126420,
+      "invNumber": "",
+      "basePlace": -1548126420,
+      "pts": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "sor": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "abonentTerminals": [
+        {
+          "id": 6976,
+          "code": "862311067377653",
+          "isMain": true,
+          "isActive": true
+        }
+      ],
+      "classByLength": null,
+      "registered": true,
+      "kindType": ""
+    },
+    {
+      "vin": "XTT390995N1200878",
+      "idMO": 7287,
+      "modelOrMarkOrModif": "УАЗ Буханка",
+      "regNumber": "Н557МА65",
+      "garageNumber": "СУР",
+      "organization": -1334444226,
+      "invNumber": "",
+      "basePlace": -71357310,
+      "pts": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "sor": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "abonentTerminals": [
+        {
+          "id": 6078,
+          "code": "354762114744839",
+          "isMain": true,
+          "isActive": true
+        }
+      ],
+      "classByLength": {
+        "id": 2,
+        "name": "малый (более 5 метров до 7,5 метров)"
+      },
+      "registered": true,
+      "kindType": "Легковой прочее"
+    },
+    {
+      "vin": "XTT390945N1209325",
+      "idMO": 8410,
+      "modelOrMarkOrModif": "УАЗ Фермер",
+      "regNumber": "Н730МА65",
+      "garageNumber": "Перевозчик",
+      "organization": -49178073,
+      "invNumber": "",
+      "basePlace": -71357310,
+      "pts": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "sor": {
+        "number": "836302",
+        "series": "9941",
+        "date": null
+      },
+      "abonentTerminals": [
+        {
+          "id": 7068,
+          "code": "864857030815359",
+          "isMain": true,
+          "isActive": true
+        }
+      ],
+      "classByLength": null,
+      "registered": true,
+      "kindType": "Легковой пикап"
+    },
+    {
+      "vin": "XTT390995P1211754",
+      "idMO": 7295,
+      "modelOrMarkOrModif": "УАЗ Буханка",
+      "regNumber": "Н355НС65",
+      "garageNumber": "СУР",
+      "organization": 281487574,
+      "invNumber": "",
+      "basePlace": -71357310,
+      "pts": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "sor": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "abonentTerminals": [
+        {
+          "id": 6086,
+          "code": "863921038986892",
+          "isMain": true,
+          "isActive": true
+        }
+      ],
+      "classByLength": {
+        "id": 2,
+        "name": "малый (более 5 метров до 7,5 метров)"
+      },
+      "registered": true,
+      "kindType": "Легковой прочее"
+    },
+    {
+      "vin": "XTT390995P1211975",
+      "idMO": 7297,
+      "modelOrMarkOrModif": "УАЗ Буханка",
+      "regNumber": "Н363НС65",
+      "garageNumber": "СУР",
+      "organization": -530213765,
+      "invNumber": "",
+      "basePlace": -71357310,
+      "pts": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "sor": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "abonentTerminals": [
+        {
+          "id": 6088,
+          "code": "863921039001741",
+          "isMain": true,
+          "isActive": true
+        }
+      ],
+      "classByLength": {
+        "id": 2,
+        "name": "малый (более 5 метров до 7,5 метров)"
+      },
+      "registered": true,
+      "kindType": "Легковой прочее"
+    },
+    {
+      "vin": "MMBJJKL10NH075927",
+      "idMO": 7272,
+      "modelOrMarkOrModif": "MITSUBISHI L200",
+      "regNumber": "Н140НА65",
+      "garageNumber": "СУР",
+      "organization": -1017901469,
+      "invNumber": "",
+      "basePlace": -71357310,
+      "pts": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "sor": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "abonentTerminals": [
+        {
+          "id": 6063,
+          "code": "862311060043351",
+          "isMain": true,
+          "isActive": true
+        }
+      ],
+      "classByLength": {
+        "id": 2,
+        "name": "малый (более 5 метров до 7,5 метров)"
+      },
+      "registered": true,
+      "kindType": "Легковой пикап"
+    },
+    {
+      "vin": "LG11PAB56PC015914",
+      "idMO": 7268,
+      "modelOrMarkOrModif": "JAC T6",
+      "regNumber": "Н498НС65",
+      "garageNumber": "Заявочные",
+      "organization": -193914563,
+      "invNumber": "",
+      "basePlace": -71357310,
+      "pts": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "sor": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "abonentTerminals": [
+        {
+          "id": 6059,
+          "code": "862311062437890",
+          "isMain": true,
+          "isActive": true
+        }
+      ],
+      "classByLength": {
+        "id": 2,
+        "name": "малый (более 5 метров до 7,5 метров)"
+      },
+      "registered": true,
+      "kindType": "Легковой пикап"
+    },
+    {
+      "vin": "",
+      "idMO": 7860,
+      "modelOrMarkOrModif": "УАЗ ПАТРИОТ",
+      "regNumber": "Н136НК65",
+      "garageNumber": "ВГК БВР",
+      "organization": -1212279383,
+      "invNumber": "",
+      "basePlace": -71357310,
+      "pts": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "sor": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "abonentTerminals": [
+        {
+          "id": 6548,
+          "code": "862311063535452",
+          "isMain": true,
+          "isActive": true
+        }
+      ],
+      "classByLength": null,
+      "registered": true,
+      "kindType": "Легковой универсал"
+    },
+    {
+      "vin": "WDB9066351S481134",
+      "idMO": 7271,
+      "modelOrMarkOrModif": "MERCEDES BENZ SPRINTER 414 2.3",
+      "regNumber": "Н493ВН65",
+      "garageNumber": "ВГК",
+      "organization": -452258563,
+      "invNumber": "",
+      "basePlace": -71357310,
+      "pts": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "sor": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "abonentTerminals": [
+        {
+          "id": 6062,
+          "code": "354762116188787",
+          "isMain": true,
+          "isActive": true
+        }
+      ],
+      "classByLength": {
+        "id": 2,
+        "name": "малый (более 5 метров до 7,5 метров)"
+      },
+      "registered": true,
+      "kindType": "Легковой фургон"
+    },
+    {
+      "vin": "",
+      "idMO": 9002,
+      "modelOrMarkOrModif": "УАЗ ПАТРИОТ",
+      "regNumber": "Н112ОТ",
+      "garageNumber": "",
+      "organization": -1239446578,
+      "invNumber": "",
+      "basePlace": null,
+      "pts": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "sor": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "abonentTerminals": [],
+      "classByLength": null,
+      "registered": false,
+      "kindType": ""
+    },
+    {
+      "vin": "",
+      "idMO": 9016,
+      "modelOrMarkOrModif": "УАЗ Буханка",
+      "regNumber": "Н135ОТ65",
+      "garageNumber": "СУР",
+      "organization": -54950919,
+      "invNumber": "",
+      "basePlace": -71357310,
+      "pts": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "sor": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "abonentTerminals": [
+        {
+          "id": 7659,
+          "code": "862311068626256",
+          "isMain": true,
+          "isActive": true
+        }
+      ],
+      "classByLength": null,
+      "registered": true,
+      "kindType": "Легковой фургон"
+    },
+    {
+      "vin": "",
+      "idMO": 9026,
+      "modelOrMarkOrModif": "КАМАЗ Каналопромывочные машины",
+      "regNumber": "Н147ОТ",
+      "garageNumber": "",
+      "organization": -1548126420,
+      "invNumber": "",
+      "basePlace": null,
+      "pts": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "sor": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "abonentTerminals": [
+        {
+          "id": 7669,
+          "code": "862311068562428",
+          "isMain": true,
+          "isActive": true
+        }
+      ],
+      "classByLength": null,
+      "registered": true,
+      "kindType": ""
+    },
+    {
+      "vin": "",
+      "idMO": 9024,
+      "modelOrMarkOrModif": "КАМАЗ Дорожные машины",
+      "regNumber": "Н197ОТ65",
+      "garageNumber": "",
+      "organization": -1548126420,
+      "invNumber": "",
+      "basePlace": -1548126420,
+      "pts": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "sor": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "abonentTerminals": [
+        {
+          "id": 7667,
+          "code": "862311067372449",
+          "isMain": true,
+          "isActive": true
+        }
+      ],
+      "classByLength": null,
+      "registered": true,
+      "kindType": "Комбинированная дорожная машина"
+    },
+    {
+      "vin": "",
+      "idMO": 9025,
+      "modelOrMarkOrModif": "КАМАЗ Дорожные машины",
+      "regNumber": "М805РУ65",
+      "garageNumber": "",
+      "organization": -1548126420,
+      "invNumber": "",
+      "basePlace": -1548126420,
+      "pts": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "sor": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "abonentTerminals": [
+        {
+          "id": 7668,
+          "code": "862311067462026",
+          "isMain": true,
+          "isActive": true
+        }
+      ],
+      "classByLength": null,
+      "registered": true,
+      "kindType": "Комбинированная дорожная машина"
+    },
+    {
+      "vin": "XTT31630051006371",
+      "idMO": 9208,
+      "modelOrMarkOrModif": "УАЗ ПАТРИОТ",
+      "regNumber": "Н112ОТ65",
+      "garageNumber": "Заявочные",
+      "organization": -193914563,
+      "invNumber": "",
+      "basePlace": -1792956696,
+      "pts": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "sor": {
+        "number": "623588",
+        "series": "9973",
+        "date": null
+      },
+      "abonentTerminals": [
+        {
+          "id": 8069,
+          "code": "862311068626371",
+          "isMain": true,
+          "isActive": true
+        }
+      ],
+      "classByLength": null,
+      "registered": true,
+      "kindType": "Легковой"
+    },
+    {
+      "vin": "XTT316300S1009231",
+      "idMO": 9194,
+      "modelOrMarkOrModif": "УАЗ ПАТРИОТ",
+      "regNumber": "Н162ОТ65",
+      "garageNumber": "",
+      "organization": -1792956696,
+      "invNumber": "",
+      "basePlace": -1792956696,
+      "pts": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "sor": {
+        "number": "628030",
+        "series": "9973",
+        "date": null
+      },
+      "abonentTerminals": [],
+      "classByLength": null,
+      "registered": false,
+      "kindType": "Автомобили легковые"
+    },
+    {
+      "vin": "XTT316300N1002668",
+      "idMO": 7321,
+      "modelOrMarkOrModif": "УАЗ ПАТРИОТ",
+      "regNumber": "Н606МА65",
+      "garageNumber": "СУР",
+      "organization": -505258945,
+      "invNumber": "",
+      "basePlace": -71357310,
+      "pts": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "sor": {
+        "number": "777930",
+        "series": "9927",
+        "date": null
+      },
+      "abonentTerminals": [
+        {
+          "id": 6112,
+          "code": "863921032256508",
+          "isMain": true,
+          "isActive": true
+        }
+      ],
+      "classByLength": null,
+      "registered": true,
+      "kindType": "Легковой универсал"
+    },
+    {
+      "vin": "KMHWH81KBLU099147",
+      "idMO": 7265,
+      "modelOrMarkOrModif": "HYUNDAI H1 2.5D",
+      "regNumber": "Н142ВС65",
+      "garageNumber": "Заявочные",
+      "organization": -193914563,
+      "invNumber": "",
+      "basePlace": -71357310,
+      "pts": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "sor": {
+        "number": "351955",
+        "series": "9917",
+        "date": null
+      },
+      "abonentTerminals": [
+        {
+          "id": 6056,
+          "code": "354762115374834",
+          "isMain": true,
+          "isActive": true
+        }
+      ],
+      "classByLength": null,
+      "registered": true,
+      "kindType": "Легковой фургон"
+    },
+    {
+      "vin": "XTT220695M1202286",
+      "idMO": 7289,
+      "modelOrMarkOrModif": "УАЗ Пикап",
+      "regNumber": "Н127ОТ65",
+      "garageNumber": "ВГК",
+      "organization": 1257619008,
+      "invNumber": "",
+      "basePlace": -71357310,
+      "pts": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "sor": {
+        "number": "615167",
+        "series": "9926",
+        "date": null
+      },
+      "abonentTerminals": [
+        {
+          "id": 7957,
+          "code": "862311067652360",
+          "isMain": true,
+          "isActive": true
+        },
+        {
+          "id": 6080,
+          "code": "354762115384551",
+          "isMain": false,
+          "isActive": false
+        }
+      ],
+      "classByLength": {
+        "id": 2,
+        "name": "малый (более 5 метров до 7,5 метров)"
+      },
+      "registered": true,
+      "kindType": "Легковой прочее"
+    },
+    {
+      "vin": "",
+      "idMO": 7324,
+      "modelOrMarkOrModif": "УАЗ Пикап",
+      "regNumber": "М266ХМ65",
+      "garageNumber": "УМПШ",
+      "organization": -2095782236,
+      "invNumber": "",
+      "basePlace": -71357310,
+      "pts": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "sor": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "abonentTerminals": [
+        {
+          "id": 6115,
+          "code": "354762116188761",
+          "isMain": true,
+          "isActive": true
+        }
+      ],
+      "classByLength": null,
+      "registered": true,
+      "kindType": "Легковой пикап"
+    },
+    {
+      "vin": "XTT316300S1009232",
+      "idMO": 9013,
+      "modelOrMarkOrModif": "УАЗ ПАТРИОТ",
+      "regNumber": "Н162ОТ",
+      "garageNumber": "УМПШ",
+      "organization": -687167852,
+      "invNumber": "",
+      "basePlace": -71357310,
+      "pts": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "sor": {
+        "number": "628030",
+        "series": "9973",
+        "date": null
+      },
+      "abonentTerminals": [
+        {
+          "id": 7656,
+          "code": "862311068568722",
+          "isMain": true,
+          "isActive": true
+        }
+      ],
+      "classByLength": null,
+      "registered": true,
+      "kindType": "Легковой"
+    },
+    {
+      "vin": "",
+      "idMO": 10914,
+      "modelOrMarkOrModif": "XCMG XGC55",
+      "regNumber": "Н274МВ",
+      "garageNumber": "",
+      "organization": 1580450770,
+      "invNumber": "",
+      "basePlace": null,
+      "pts": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "sor": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "abonentTerminals": [],
+      "classByLength": null,
+      "registered": true,
+      "kindType": ""
+    },
+    {
+      "vin": "XTT390945J1212297",
+      "idMO": 7330,
+      "modelOrMarkOrModif": "УАЗ Фермер",
+      "regNumber": "М648УС65",
+      "garageNumber": "СУР",
+      "organization": 748091971,
+      "invNumber": "",
+      "basePlace": -71357310,
+      "pts": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "sor": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "abonentTerminals": [
+        {
+          "id": 6121,
+          "code": "863921037190173",
+          "isMain": true,
+          "isActive": true
+        }
+      ],
+      "classByLength": null,
+      "registered": true,
+      "kindType": "Легковой"
+    },
+    {
+      "vin": "",
+      "idMO": 10911,
+      "modelOrMarkOrModif": "XCMG QY-70K",
+      "regNumber": "Н597НУ65",
+      "garageNumber": "",
+      "organization": 1580450770,
+      "invNumber": "",
+      "basePlace": 1580450770,
+      "pts": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "sor": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "abonentTerminals": [
+        {
+          "id": 8199,
+          "code": "862311068622214",
+          "isMain": true,
+          "isActive": true
+        }
+      ],
+      "classByLength": null,
+      "registered": true,
+      "kindType": "Автокран"
+    },
+    {
+      "vin": "",
+      "idMO": 7642,
+      "modelOrMarkOrModif": "УАЗ ПАТРИОТ",
+      "regNumber": "Н106ОТ65",
+      "garageNumber": "УМПШ",
+      "organization": 488194985,
+      "invNumber": "",
+      "basePlace": -71357310,
+      "pts": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "sor": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "abonentTerminals": [
+        {
+          "id": 8227,
+          "code": "862311068558483",
+          "isMain": true,
+          "isActive": true
+        }
+      ],
+      "classByLength": null,
+      "registered": true,
+      "kindType": "Легковой"
+    },
+    {
+      "vin": "XTT236320K1016469",
+      "idMO": 7325,
+      "modelOrMarkOrModif": "УАЗ Пикап",
+      "regNumber": "М295ХМ65",
+      "garageNumber": "Подменные",
+      "organization": -1060481561,
+      "invNumber": "",
+      "basePlace": -71357310,
+      "pts": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "sor": {
+        "number": "892182",
+        "series": "9909",
+        "date": null
+      },
+      "abonentTerminals": [
+        {
+          "id": 6116,
+          "code": "354762115385707",
+          "isMain": true,
+          "isActive": true
+        }
+      ],
+      "classByLength": null,
+      "registered": true,
+      "kindType": "Легковой пикап"
+    },
+    {
+      "vin": "",
+      "idMO": 7466,
+      "modelOrMarkOrModif": "УАЗ ПАТРИОТ",
+      "regNumber": "Н543ОМ65",
+      "garageNumber": "Заявочные",
+      "organization": -193914563,
+      "invNumber": "",
+      "basePlace": -71357310,
+      "pts": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "sor": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "abonentTerminals": [
+        {
+          "id": 8237,
+          "code": "862311068558186",
+          "isMain": true,
+          "isActive": true
+        },
+        {
+          "id": 6208,
+          "code": "866897052188713",
+          "isMain": false,
+          "isActive": false
+        }
+      ],
+      "classByLength": null,
+      "registered": true,
+      "kindType": "Легковой"
+    },
+    {
+      "vin": "",
+      "idMO": 8764,
+      "modelOrMarkOrModif": "TOYOTA Fortuner",
+      "regNumber": "ААА",
+      "garageNumber": "",
+      "organization": -1792956696,
+      "invNumber": "",
+      "basePlace": null,
+      "pts": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "sor": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "abonentTerminals": [
+        {
+          "id": 8100,
+          "code": "862311066901222",
+          "isMain": true,
+          "isActive": true
+        },
+        {
+          "id": 7388,
+          "code": "354762115384478",
+          "isMain": false,
+          "isActive": false
+        }
+      ],
+      "classByLength": null,
+      "registered": true,
+      "kindType": ""
+    },
+    {
+      "vin": "",
+      "idMO": 11229,
+      "modelOrMarkOrModif": "КАМАЗ Aвтобетононасос",
+      "regNumber": "Н228ОТ65",
+      "garageNumber": "",
+      "organization": -1548126420,
+      "invNumber": "",
+      "basePlace": -1548126420,
+      "pts": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "sor": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "abonentTerminals": [
+        {
+          "id": 8570,
+          "code": "862311068604287",
+          "isMain": true,
+          "isActive": true
+        }
+      ],
+      "classByLength": null,
+      "registered": true,
+      "kindType": ""
+    },
+    {
+      "vin": "",
+      "idMO": 11274,
+      "modelOrMarkOrModif": "TESLA Model X",
+      "regNumber": "Н180ОТ65",
+      "garageNumber": "Заявочные",
+      "organization": -193914563,
+      "invNumber": "",
+      "basePlace": null,
+      "pts": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "sor": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "abonentTerminals": [],
+      "classByLength": null,
+      "registered": false,
+      "kindType": ""
+    },
+    {
+      "vin": "X895792X1J0EV8597",
+      "idMO": 7450,
+      "modelOrMarkOrModif": "HINO Melpha 5792Х1",
+      "regNumber": "М099ХМ65",
+      "garageNumber": "",
+      "organization": -1548126420,
+      "invNumber": "",
+      "basePlace": -1548126420,
+      "pts": {
+        "number": "412797",
+        "series": "412797",
+        "date": "30.10.2015"
+      },
+      "sor": {
+        "number": "",
+        "series": "",
+        "date": null
+      },
+      "abonentTerminals": [
+        {
+          "id": 6192,
+          "code": "354762115434935",
+          "isMain": true,
+          "isActive": true
+        }
+      ],
+      "classByLength": {
+        "id": 2,
+        "name": "малый (более 5 метров до 7,5 метров)"
+      },
+      "registered": true,
+      "kindType": "Фургоны"
+    },
+    {
+      "vin": "Z9A579022B0000013",
+      "idMO": 7485,
+      "modelOrMarkOrModif": "КАМАЗ 43118",
+      "regNumber": "М332ЕС65",
+      "garageNumber": "",
+      "organization": -1548126420,
+      "invNumber": "М332ЕС",
+      "basePlace": -1548126420,
+      "pts": {
+        "number": "423046",
+        "series": "423046",
+        "date": "29.11.2011"
+      },
+      "sor": {
+        "number": "537721",
+        "series": "6530",
+        "date": "02.06.2015"
+      },
+      "abonentTerminals": [
+        {
+          "id": 6227,
+          "code": "862311063183485",
+          "isMain": true,
+          "isActive": true
+        }
+      ],
+      "classByLength": {
+        "id": 3,
+        "name": "средний (более 7,5 метров до 10 метров)"
+      },
+      "registered": true,
+      "kindType": "Грузовой бортовой"
+    }
+  ],
+  "organization": -1792956696,
+  "total": 190
+}
