@@ -45,7 +45,7 @@ example.com на ваш домен:
     sudo certbot certonly --standalone -d example.com -d www.example.com
 
 ### 3
-## NODE JS 
+## NODE JS 18.20.8
 Установите nvm: В открытом терминале выполните следующую команду для загрузки и 
 установки nvm. Это позволит вам устанавливать любую версию Node.js.
 
